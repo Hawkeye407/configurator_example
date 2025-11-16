@@ -51,23 +51,23 @@
   ],
   "products": [
     {
-      "item_name": "Kombinované kleště 200mm",
-      "item_description": "Robustní kleště pro profesionální použití.",
-      "item_price": 390,
+      "product_name": "Kombinované kleště 200mm",
+      "product_description": "Robustní kleště pro profesionální použití.",
+      "product_price": 390,
       "accessories_compatibility": ["Náhradní baterie 18V", "Univerzální kufr na nářadí"],
       "image": "image/H01.jpg"
     },
     {
-      "item_name": "Šroubovák ProLine",
-      "item_description": "Magnetický šroubovák s protiskluzovou rukojetí.",
-      "item_price": 220,
+      "product_name": "Šroubovák ProLine",
+      "product_description": "Magnetický šroubovák s protiskluzovou rukojetí.",
+      "product_price": 220,
       "accessories_compatibility": ["Univerzální kufr na nářadí"],
       "image": "image/H01.jpg"
     },
     {
-      "item_name": "Řezací nůž UltraCut",
-      "item_description": "Pevný nůž s výměnnými čepelemi.",
-      "item_price": 150,
+      "product_name": "Řezací nůž UltraCut",
+      "product_description": "Pevný nůž s výměnnými čepelemi.",
+      "product_price": 150,
       "accessories_compatibility": ["Univerzální kufr na nářadí"],
       "image": "image/H01.jpg"
     }
