@@ -1,169 +1,170 @@
 {
-  "models": [
-    {
-      "model_id": "H01",
-      "model_name": "H01",
-      "model_description": "Univerzální pásová bruska se širokou škálou výměnného příslušenství a doplňků.",
-      "model_price": 33990,
-      "image": "image/H01J.jpg",
-      "variants": [
+    "models": [
         {
-          "variant_id": "H01J1.5",
-          "variant_name": "Jednorychlostní, 1.5W motor",
-          "motor": "1.5",
-          "regulation": "J",
-          "variant_price": 33990,
-          "variant_supplement": 0,
-          "variant_image": "image/H01J.jpg",
-          "default": true
+            "model_id": "H01",
+            "model_name": "H01",
+            "model_description": "Univerzální pásová bruska se širokou škálou výměnného příslušenství a doplňků.",
+            "model_price": 33990,
+            "image": "image/H01J.jpg",
+            "variants": [
+                {
+                    "variant_id": "H01J1.5",
+                    "variant_name": "Jednorychlostní, 1.5W motor",
+                    "motor": "1.5",
+                    "regulation": "J",
+                    "variant_price": 33990,
+                    "variant_supplement": 0,
+                    "variant_image": "image/H01J.jpg",
+                    "default": true
+                },
+                {
+                    "variant_id": "H01J2.2",
+                    "variant_name": "Jednorychlostní, 2.2W motor",
+                    "motor": "2.2",
+                    "regulation": "J",
+                    "variant_price": 35990,
+                    "variant_supplement": 2000,
+                    "variant_image": "image/H01J.jpg",
+                    "default": false
+                },
+                {
+                    "variant_id": "H01P1.5",
+                    "variant_name": "Plynulá regulace, 1.5W motor",
+                    "motor": "1.5",
+                    "regulation": "P",
+                    "variant_price": 41990,
+                    "variant_supplement": 8000,
+                    "variant_image": "image/H01P.jpg",
+                    "default": false
+                },
+                {
+                    "variant_id": "H01P2.2",
+                    "variant_name": "Plynulá regulace, 2.2W motor",
+                    "motor": "2.2",
+                    "regulation": "P",
+                    "variant_price": 45390,
+                    "variant_supplement": 11400,
+                    "variant_image": "image/H01P.jpg",
+                    "default": false
+                }
+            ]
         },
         {
-          "variant_id": "H01J2.2",
-          "variant_name": "Jednorychlostní, 2.2W motor",
-          "motor": "2.2",
-          "regulation": "J",
-          "variant_price": 35990,
-          "variant_supplement": 2000,
-          "variant_image": "image/H01J.jpg",
-          "default": false
+            "model_id": "H02",
+            "model_name": "H02",
+            "model_description": "chybí text",
+            "model_price": 43990,
+            "image": "image/H02J.jpg",
+            "variants": [
+                {
+                    "variant_id": "H02J1.5",
+                    "variant_name": "Jednorychlostní, 1.5W motor",
+                    "motor": "1.5",
+                    "regulation": "J",
+                    "variant_price": 43990,
+                    "variant_supplement": 0,
+                    "variant_image": "image/H02J.jpg",
+                    "default": true
+                },
+                {
+                    "variant_id": "H02J2.2",
+                    "variant_name": "Jednorychlostní, 2.2W motor",
+                    "motor": "2.2",
+                    "regulation": "J",
+                    "variant_price": 46990,
+                    "variant_supplement": 3000,
+                    "variant_image": "image/H02J.jpg",
+                    "default": false
+                },
+                {
+                    "variant_id": "H02P1.5",
+                    "variant_name": "Plynulá regulace, 1.5W motor",
+                    "motor": "1.5",
+                    "regulation": "P",
+                    "variant_price": 53990,
+                    "variant_supplement": 10000,
+                    "variant_image": "image/H02P.jpg",
+                    "default": false
+                },
+                {
+                    "variant_id": "H02P2.2",
+                    "variant_name": "Plynulá regulace, 2.2W motor",
+                    "motor": "2.2",
+                    "regulation": "P",
+                    "variant_price": 57990,
+                    "variant_supplement": 14000,
+                    "variant_image": "image/H02P.jpg",
+                    "default": false
+                }
+            ]
         },
         {
-          "variant_id": "H01P1.5",
-          "variant_name": "Plynulá regulace, 1.5W motor",
-          "motor": "1.5",
-          "regulation": "P",
-          "variant_price": 41990,
-          "variant_supplement": 8000,
-          "variant_image": "image/H01P.jpg",
-          "default": false
+            "model_id": "H03",
+            "model_name": "H03",
+            "model_description": "Hlavní předností této pásové brusky je možnost použití i v horizontální poloze a její široká škála volitelného příslušenství.",
+            "model_price": 33990,
+            "image": "image/H03J.jpg",
+            "variants": [
+                {
+                    "variant_id": "H03J1.5",
+                    "variant_name": "Jednorychlostní, 1.5W motor",
+                    "motor": "1.5",
+                    "regulation": "J",
+                    "variant_price": 33990,
+                    "variant_supplement": 0,
+                    "variant_image": "image/H03J.jpg",
+                    "default": true
+                },
+                {
+                    "variant_id": "H03P1.5",
+                    "variant_name": "Plynulá regulace, 1.5W motor",
+                    "motor": "1.5",
+                    "regulation": "P",
+                    "variant_price": 41990,
+                    "variant_supplement": 8000,
+                    "variant_image": "image/H03P.jpg",
+                    "default": false
+                }
+            ]
         },
         {
-          "variant_id": "H01P2.2",
-          "variant_name": "Plynulá regulace, 2.2W motor",
-          "motor": "2.2",
-          "regulation": "P",
-          "variant_price": 45390,
-          "variant_supplement": 11400,
-          "variant_image": "image/H01P.jpg",
-          "default": false
+            "model_id": "H31",
+            "model_name": "H31",
+            "model_description": "Ve srovnání s modelem H03 V2 nabízí tento stroj řadu významných vylepšení...",
+            "model_price": 53990,
+            "image": "image/H31P.jpg",
+            "variants": [
+                {
+                    "variant_id": "H31P1.5",
+                    "variant_name": "Plynulá regulace, 1.5W motor",
+                    "motor": "1.5",
+                    "regulation": "P",
+                    "variant_price": 53990,
+                    "variant_supplement": 0,
+                    "variant_image": "image/H31P.jpg",
+                    "default": true
+                },
+                {
+                    "variant_id": "H31P2.2",
+                    "variant_name": "Plynulá regulace, 2.2W motor",
+                    "motor": "2.2",
+                    "regulation": "P",
+                    "variant_price": 58990,
+                    "variant_supplement": 5000,
+                    "variant_image": "image/H31P.jpg",
+                    "default": false
+                }
+            ]
+        },
+        {
+            "model_id": "H05",
+            "model_name": "H05",
+            "model_description": "Tato průmyslová pásová bruska vyniká jednoduchou obsluhou a vysokým výkonem.",
+            "model_price": 71990,
+            "image": "image/H05P.jpg",
+            "variants": []
         }
-      ]
-    },
-    {
-      "model_id": "H02",
-      "model_name": "H02",
-      "model_description": "chybí text",
-      "model_price": 43990,
-      "image": "image/H02J.jpg",
-      "variants": [
-        {
-          "variant_id": "H02J1.5",
-          "variant_name": "Jednorychlostní, 1.5W motor",
-          "motor": "1.5",
-          "regulation": "J",
-          "variant_price": 43990,
-          "variant_supplement": 0,
-          "variant_image": "image/H02J.jpg",
-          "default": true
-        },
-        {
-          "variant_id": "H02J2.2",
-          "variant_name": "Jednorychlostní, 2.2W motor",
-          "motor": "2.2",
-          "regulation": "J",
-          "variant_price": 46990,
-          "variant_supplement": 3000,
-          "variant_image": "image/H02J.jpg",
-          "default": false
-        },
-        {
-          "variant_id": "H02P1.5",
-          "variant_name": "Plynulá regulace, 1.5W motor",
-          "motor": "1.5",
-          "regulation": "P",
-          "variant_price": 53990,
-          "variant_supplement": 10000,
-          "variant_image": "image/H02P.jpg",
-          "default": false
-        },
-        {
-          "variant_id": "H02P2.2",
-          "variant_name": "Plynulá regulace, 2.2W motor",
-          "motor": "2.2",
-          "regulation": "P",
-          "variant_price": 57990,
-          "variant_supplement": 14000,
-          "variant_image": "image/H02P.jpg",
-          "default": false
-        }
-      ]
-    },
-    {
-      "model_id": "H03",
-      "model_name": "H03",
-      "model_description": "Hlavní předností této pásové brusky je možnost použití i v horizontální poloze a její široká škála volitelného příslušenství .",
-      "model_price": 33990,
-      "image": "image/H03J.jpg",
-      "variants": [
-        {
-          "variant_id": "H03J1.5",
-          "variant_name": "Jednorychlostní, 1.5W motor",
-          "motor": "1.5",
-          "regulation": "J",
-          "variant_price": 33990,
-          "variant_supplement": 0,
-          "variant_image": "image/H03J.jpg",
-          "default": true
-        },
-        {
-          "variant_id": "H03P1.5",
-          "variant_name": "Plynulá regulace, 1.5W motor",
-          "motor": "1.5",
-          "regulation": "P",
-          "variant_price": 41990,
-          "variant_supplement": 8000,
-          "variant_image": "image/H03P.jpg",
-          "default": false
-        }
-      ]
-    },
-    {
-      "model_id": "H31",
-      "model_name": "H31",
-      "model_description": "Ve srovnání s modelem H03 V2 nabízí tento stroj řadu významných vylepšení. Má delší pás o rozměru 50×2000 mm, větší kladky o průměru 100 mm i větší hnací kolo s průměrem 180 mm. Díky těmto úpravám je chod zařízení tišší, dochází k menšímu zahřívání a opotřebení ložisek a zároveň je dosažitelná vyšší rychlost pásu až 30 m/s. Konstrukce je celkově masivnější, přičemž jeden opěrný stolek slouží pro obě pracovní polohy a je možné jej také naklápět. Součástí vylepšení je i použití plynové vzpěry.",
-      "model_price": 53990,
-      "image": "image/H31P.jpg",
-      "variants": [
-        {
-          "variant_id": "H31P1.5",
-          "variant_name": "Plynulá regulace, 1.5W motor",
-          "motor": "1.5",
-          "regulation": "P",
-          "variant_price": 53990,
-          "variant_supplement": 0,
-          "variant_image": "image/H31P.jpg",
-          "default": true
-        },
-        {
-          "variant_id": "H31P2.2",
-          "variant_name": "Plynulá regulace, 1.5W motor",
-          "motor": "2.2",
-          "regulation": "P",
-          "variant_price": 58990,
-          "variant_supplement": 5000,
-          "variant_image": "image/H31P.jpg",
-          "default": false
-        }
-      ]
-    },
-    {
-      "model_id": "H05",
-      "model_name": "H05",
-      "model_description": "Tato průmyslová pásová bruska vyniká jednoduchou obsluhou a vysokým výkonem. Robustní a masivní konstrukce zajišťuje dlouhou životnost a stabilitu při práci. Díky rychlé výměně brusného pásu je možné efektivně reagovat na různé pracovní potřeby, které dále rozšiřuje široký sortiment přídavných komponentů. Bruska nabízí volný pás s osovou roztečí kladek 400 mm, možnost použití kontaktních kol různých průměrů a šířek až do průměru 500 mm, a také funkci rovné brusky s podpěrou pásu. Úhel rovné brusky i volného pásu lze snadno nastavit, což umožňuje přesné přizpůsobení konkrétní aplikaci.",
-      "model_price": 71990,
-      "image": "image/H05P.jpg"
-    }
-  ],
+    ],
   "accessories": [
     {
       "item_name": "Rovná bruska",
