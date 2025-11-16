@@ -29,12 +29,12 @@
       "variants": [
         {
           "variant_name": "Základní",
-          "variant_price": 0
+          "variant_price": 0,
           "default": true
         },
         {
           "variant_name": "Lepší opěrka pásu",
-          "variant_price": 250
+          "variant_price": 250,
           "default": false
         }
       ]
