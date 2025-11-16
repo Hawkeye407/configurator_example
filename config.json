@@ -24,21 +24,21 @@
       "item_name": "Náhradní baterie 18V",
       "item_description": "Výkonná Li-Ion baterie pro delší provoz.",
       "item_price": 890,
-      "compatibility": ["HO1"],
+      "compatibility": ["H01"],
       "image": "image/H03.jpg"
     },
     {
       "item_name": "Kladívkový kryt",
       "item_description": "Gumový kryt pro zvýšení bezpečnosti.",
       "item_price": 190,
-      "compatibility": ["HO2"],
+      "compatibility": ["H02"],
       "image": "image/H01.jpg"
     },
     {
       "item_name": "Pilařský list ProCut",
       "item_description": "Vysokokvalitní pilový list pro přesné a čisté řezy.",
       "item_price": 320,
-      "compatibility": ["HO3"],
+      "compatibility": ["H03"],
       "image": "image/H01.jpg"
     },
     {
