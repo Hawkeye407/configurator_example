@@ -4,7 +4,7 @@
       "model_name": "H01",
       "model_description": "Profesionální kladivo pro těžké stavební práce.",
       "model_price": 1290,
-      "image": "image/H01.jpg"
+      "image": "image/H01.jpg",
       "variants": [
         {
           "variant_name": "Jednorychlostní, 1.5 kw motor",
