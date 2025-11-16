@@ -25,7 +25,17 @@
       "item_description": "Výkonná Li-Ion baterie pro delší provoz.",
       "item_price": 890,
       "compatibility": ["H01"],
-      "image": "image/H03.jpg"
+      "image": "image/H03.jpg",
+      "variants": [
+        {
+          "variant_name": "Základní",
+          "variant_price": 0
+        },
+        {
+          "variant_name": "Lepší opěrka pásu",
+          "variant_price": 250
+        }
+      ]
     },
     {
       "item_name": "Kontaktní kolo",
@@ -73,3 +83,4 @@
     }
   ]
 }
+
