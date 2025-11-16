@@ -21,28 +21,28 @@
   ],
   "accessories": [
     {
-      "item_name": "Náhradní baterie 18V",
+      "item_name": "Rovná bruska",
       "item_description": "Výkonná Li-Ion baterie pro delší provoz.",
       "item_price": 890,
       "compatibility": ["H01"],
       "image": "image/H03.jpg"
     },
     {
-      "item_name": "Kladívkový kryt",
+      "item_name": "Kontaktní kolo",
       "item_description": "Gumový kryt pro zvýšení bezpečnosti.",
       "item_price": 190,
       "compatibility": ["H02"],
       "image": "image/H01.jpg"
     },
     {
-      "item_name": "Pilařský list ProCut",
+      "item_name": "Držák malých kladek",
       "item_description": "Vysokokvalitní pilový list pro přesné a čisté řezy.",
       "item_price": 320,
       "compatibility": ["H03"],
       "image": "image/H01.jpg"
     },
     {
-      "item_name": "Univerzální kufr na nářadí",
+      "item_name": "Trojkladka",
       "item_description": "Pevný kufr na přenášení nářadí.",
       "item_price": 450,
       "compatibility": ["HammerPro X100", "DrillMaster 550", "SawCut Precision"],
