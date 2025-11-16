@@ -12,7 +12,7 @@
           "variant_name": "Jednorychlostní, 1.5W motor",
           "motor": "1.5",
           "regulation": "J",
-          "variant_price": 0,
+          "variant_supplement": 0,
           "default": true
         },
         {
@@ -20,7 +20,7 @@
           "variant_name": "Jednorychlostní, 2.2W motor",
           "motor": "2.2",
           "regulation": "J",
-          "variant_price": 2000,
+          "variant_supplement": 2000,
           "default": false
         },
         {
@@ -28,7 +28,7 @@
           "variant_name": "Plynulá regulace, 1.5W motor",
           "motor": "1.5",
           "regulation": "P",
-          "variant_price": 8000,
+          "variant_supplement": 8000,
           "default": false
         },
         {
@@ -36,7 +36,7 @@
           "variant_name": "Plynulá regulace, 2.2W motor",
           "motor": "2.2",
           "regulation": "P",
-          "variant_price": 11400,
+          "variant_supplement": 11400,
           "default": false
         }
       ]
@@ -53,7 +53,7 @@
           "variant_name": "Jednorychlostní, 1.5W motor",
           "motor": "1.5",
           "regulation": "J",
-          "variant_price": 0,
+          "variant_supplement": 0,
           "default": true
         },
         {
@@ -61,7 +61,7 @@
           "variant_name": "Jednorychlostní, 2.2W motor",
           "motor": "2.2",
           "regulation": "J",
-          "variant_price": 3000,
+          "variant_supplement": 3000,
           "default": false
         },
         {
@@ -69,7 +69,7 @@
           "variant_name": "Plynulá regulace, 1.5W motor",
           "motor": "1.5",
           "regulation": "P",
-          "variant_price": 10000,
+          "variant_supplement": 10000,
           "default": false
         },
         {
@@ -77,7 +77,7 @@
           "variant_name": "Plynulá regulace, 2.2W motor",
           "motor": "2.2",
           "regulation": "P",
-          "variant_price": 14000,
+          "variant_supplement": 14000,
           "default": false
         }
       ]
@@ -94,7 +94,7 @@
           "variant_name": "Jednorychlostní, 1.5W motor",
           "motor": "1.5",
           "regulation": "J",
-          "variant_price": 0,
+          "variant_supplement": 0,
           "default": true
         },
         {
@@ -102,7 +102,7 @@
           "variant_name": "Plynulá regulace, 1.5W motor",
           "motor": "1.5",
           "regulation": "P",
-          "variant_price": 8000,
+          "variant_supplement": 8000,
           "default": false
         }
       ]
@@ -119,7 +119,7 @@
           "variant_name": "Plynulá regulace, 1.5W motor",
           "motor": "1.5",
           "regulation": "P",
-          "variant_price": 0,
+          "variant_supplement": 0,
           "default": true
         },
         {
@@ -127,7 +127,7 @@
           "variant_name": "Plynulá regulace, 2.2W motor",
           "motor": "2.2",
           "regulation": "P",
-          "variant_price": 5000,
+          "variant_supplement": 5000,
           "default": false
         }
       ]
@@ -150,12 +150,12 @@
       "variants": [
         {
           "variant_name": "Základní",
-          "variant_price": 0,
+          "variant_supplement": 0,
           "default": true
         },
         {
           "variant_name": "Lepší opěrka pásu",
-          "variant_price": 250,
+          "variant_supplement": 250,
           "default": false
         }
       ]
@@ -192,12 +192,12 @@
       "variants": [
         {
           "variant_name": "Jednorychlostní, 1.5 kw motor",
-          "variant_price": 0,
+          "variant_supplement": 0,
           "default": true
         },
         {
           "variant_name": "Plynulá regulace, 2.5 kw motor",
-          "variant_price": 250,
+          "variant_supplement": 250,
           "default": false
         }
       ]
