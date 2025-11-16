@@ -3,17 +3,20 @@
     {
       "model_name": "HammerPro X100",
       "model_description": "Profesionální kladivo pro těžké stavební práce.",
-      "model_price": 1290
+      "model_price": 1290,
+      "image": "image/H01.jpg"
     },
     {
       "model_name": "DrillMaster 550",
       "model_description": "Výkonná aku vrtačka vhodná pro domácí i profi použití.",
-      "model_price": 2490
+      "model_price": 2490,
+      "image": "image/H01.jpg"
     },
     {
       "model_name": "SawCut Precision",
       "model_description": "Elektrická pila s vysokou přesností řezu.",
-      "model_price": 3290
+      "model_price": 3290,
+      "image": "image/H02.jpg"
     }
   ],
   "accessories": [
@@ -21,25 +24,29 @@
       "item_name": "Náhradní baterie 18V",
       "item_description": "Výkonná Li-Ion baterie pro delší provoz.",
       "item_price": 890,
-      "compatibility": ["DrillMaster 550"]
+      "compatibility": ["DrillMaster 550"],
+      "image": "image/H03.jpg"
     },
     {
       "item_name": "Kladívkový kryt",
       "item_description": "Gumový kryt pro zvýšení bezpečnosti.",
       "item_price": 190,
-      "compatibility": ["HammerPro X100"]
+      "compatibility": ["HammerPro X100"],
+      "image": "image/H01.jpg"
     },
     {
       "item_name": "Pilařský list ProCut",
       "item_description": "Vysokokvalitní pilový list pro přesné a čisté řezy.",
       "item_price": 320,
-      "compatibility": ["SawCut Precision"]
+      "compatibility": ["SawCut Precision"],
+      "image": "image/H01.jpg"
     },
     {
       "item_name": "Univerzální kufr na nářadí",
       "item_description": "Pevný kufr na přenášení nářadí.",
       "item_price": 450,
-      "compatibility": ["HammerPro X100", "DrillMaster 550", "SawCut Precision"]
+      "compatibility": ["HammerPro X100", "DrillMaster 550", "SawCut Precision"],
+      "image": "image/H01.jpg"
     }
   ]
 }
