@@ -79,8 +79,8 @@
       "product_description": "Robustní kleště pro profesionální použití.",
       "product_price": 390,
       "accessories_compatibility": ["Rovná bruska", "Kontaktní kolo"],
-      "image": "image/H01.jpg"
-            "variants": [
+      "image": "image/H01.jpg",
+      "variants": [
         {
           "variant_name": "Jednorychlostní, 1.5 kw motor",
           "variant_price": 0,
