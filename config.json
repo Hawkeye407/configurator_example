@@ -31,21 +31,21 @@
       "item_name": "Kontaktní kolo",
       "item_description": "Gumový kryt pro zvýšení bezpečnosti.",
       "item_price": 190,
-      "compatibility": ["H02"],
+      "compatibility": ["H01", "H02"],
       "image": "image/H01.jpg"
     },
     {
       "item_name": "Držák malých kladek",
       "item_description": "Vysokokvalitní pilový list pro přesné a čisté řezy.",
       "item_price": 320,
-      "compatibility": ["H03"],
+      "compatibility": ["H01", "H03"],
       "image": "image/H01.jpg"
     },
     {
       "item_name": "Trojkladka",
       "item_description": "Pevný kufr na přenášení nářadí.",
       "item_price": 450,
-      "compatibility": ["HammerPro X100", "DrillMaster 550", "SawCut Precision"],
+      "compatibility": ["H01"],
       "image": "image/H01.jpg"
     }
   ],
