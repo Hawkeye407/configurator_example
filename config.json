@@ -1,34 +1,143 @@
 {
   "models": [
     {
+      "model_id": "H01",
       "model_name": "H01",
-      "model_description": "Profesionální kladivo pro těžké stavební práce.",
-      "model_price": 1290,
+      "model_description": "Univerzální pásová bruska se širokou škálou výměnného příslušenství a doplňků.",
+      "model_price": 33990,
       "image": "image/H01.jpg",
       "variants": [
         {
-          "variant_name": "Jednorychlostní, 1.5 kw motor",
+          "variant_id": "H01J1.5",
+          "variant_name": "Jednorychlostní, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "J",
           "variant_price": 0,
           "default": true
         },
         {
-          "variant_name": "Plynulá regulace, 2.5 kw motor",
-          "variant_price": 250,
+          "variant_id": "H01J2.2",
+          "variant_name": "Jednorychlostní, 2.2W motor",
+          "motor": "2.2",
+          "regulation": "J",
+          "variant_price": 2000,
+          "default": false
+        },
+        {
+          "variant_id": "H01P1.5",
+          "variant_name": "Plynulá regulace, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "P",
+          "variant_price": 8000,
+          "default": false
+        },
+        {
+          "variant_id": "H01P2.2",
+          "variant_name": "Plynulá regulace, 2.2W motor",
+          "motor": "2.2",
+          "regulation": "P",
+          "variant_price": 11400,
           "default": false
         }
       ]
     },
     {
+      "model_id": "H02",
       "model_name": "H02",
-      "model_description": "Výkonná aku vrtačka vhodná pro domácí i profi použití.",
-      "model_price": 2490,
-      "image": "image/H01.jpg"
+      "model_description": "chybí text",
+      "model_price": 43990,
+      "image": "image/H01.jpg",
+      "variants": [
+        {
+          "variant_id": "H02J1.5",
+          "variant_name": "Jednorychlostní, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "J",
+          "variant_price": 0,
+          "default": true
+        },
+        {
+          "variant_id": "H02J2.2",
+          "variant_name": "Jednorychlostní, 2.2W motor",
+          "motor": "2.2",
+          "regulation": "J",
+          "variant_price": 3000,
+          "default": false
+        },
+        {
+          "variant_id": "H02P1.5",
+          "variant_name": "Plynulá regulace, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "P",
+          "variant_price": 10000,
+          "default": false
+        },
+        {
+          "variant_id": "H02P2.2",
+          "variant_name": "Plynulá regulace, 2.2W motor",
+          "motor": "2.2",
+          "regulation": "P",
+          "variant_price": 14000,
+          "default": false
+        }
+      ]
     },
     {
+      "model_id": "H03",
       "model_name": "H03",
-      "model_description": "Elektrická pila s vysokou přesností řezu.",
-      "model_price": 3290,
-      "image": "image/H02.jpg"
+      "model_description": "Hlavní předností této pásové brusky je možnost použití i v horizontální poloze a její široká škála volitelného příslušenství .",
+      "model_price": 33990,
+      "image": "image/H02.jpg",
+      "variants": [
+        {
+          "variant_id": "H03J1.5",
+          "variant_name": "Jednorychlostní, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "J",
+          "variant_price": 0,
+          "default": true
+        },
+        {
+          "variant_id": "H03P1.5",
+          "variant_name": "Plynulá regulace, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "P",
+          "variant_price": 8000,
+          "default": false
+        }
+      ]
+    },
+    {
+      "model_id": "H31",
+      "model_name": "H31",
+      "model_description": "Ve srovnání s modelem H03 V2 nabízí tento stroj řadu významných vylepšení. Má delší pás o rozměru 50×2000 mm, větší kladky o průměru 100 mm i větší hnací kolo s průměrem 180 mm. Díky těmto úpravám je chod zařízení tišší, dochází k menšímu zahřívání a opotřebení ložisek a zároveň je dosažitelná vyšší rychlost pásu až 30 m/s. Konstrukce je celkově masivnější, přičemž jeden opěrný stolek slouží pro obě pracovní polohy a je možné jej také naklápět. Součástí vylepšení je i použití plynové vzpěry.",
+      "model_price": 53990,
+      "image": "image/H31.jpg",
+      "variants": [
+        {
+          "variant_id": "H31P1.5",
+          "variant_name": "Plynulá regulace, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "P",
+          "variant_price": 0,
+          "default": true
+        },
+        {
+          "variant_id": "H31P2.2",
+          "variant_name": "Plynulá regulace, 2.2W motor",
+          "motor": "2.2",
+          "regulation": "P",
+          "variant_price": 5000,
+          "default": false
+        }
+      ]
+    },
+    {
+      "model_id": "H05",
+      "model_name": "H05",
+      "model_description": "Tato průmyslová pásová bruska vyniká jednoduchou obsluhou a vysokým výkonem. Robustní a masivní konstrukce zajišťuje dlouhou životnost a stabilitu při práci. Díky rychlé výměně brusného pásu je možné efektivně reagovat na různé pracovní potřeby, které dále rozšiřuje široký sortiment přídavných komponentů. Bruska nabízí volný pás s osovou roztečí kladek 400 mm, možnost použití kontaktních kol různých průměrů a šířek až do průměru 500 mm, a také funkci rovné brusky s podpěrou pásu. Úhel rovné brusky i volného pásu lze snadno nastavit, což umožňuje přesné přizpůsobení konkrétní aplikaci.",
+      "model_price": 71990,
+      "image": "image/H05.jpg"
     }
   ],
   "accessories": [
