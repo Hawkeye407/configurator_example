@@ -18,7 +18,7 @@
       "model_price": 3290,
       "image": "image/H02.jpg"
     }
-  ]
+  ],
   "accessories": [
     {
       "item_name": "Náhradní baterie 18V",
@@ -48,7 +48,7 @@
       "compatibility": ["HammerPro X100", "DrillMaster 550", "SawCut Precision"],
       "image": "image/H01.jpg"
     }
-  ]
+  ],
   "products": [
     {
       "item_name": "Kombinované kleště 200mm",
