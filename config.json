@@ -337,25 +337,6 @@
   ],
   "products": [
     {
-      "product_name": "Kombinované kleště 200mm",
-      "product_description": "Robustní kleště pro profesionální použití.",
-      "product_price": 390,
-      "accessories_compatibility": ["Rovná bruska", "Kontaktní kolo"],
-      "image": "image/H01.jpg",
-      "variants": [
-        {
-          "variant_name": "Jednorychlostní, 1.5 kw motor",
-          "variant_supplement": 0,
-          "default": true
-        },
-        {
-          "variant_name": "Plynulá regulace, 2.5 kw motor",
-          "variant_supplement": 250,
-          "default": false
-        }
-      ]
-    },
-    {
       "product_name": "Šroubovák ProLine",
       "product_description": "Magnetický šroubovák s protiskluzovou rukojetí.",
       "product_price": 220,
@@ -363,11 +344,12 @@
       "image": "image/H01.jpg"
     },
     {
-      "product_name": "Řezací nůž UltraCut",
-      "product_description": "Pevný nůž s výměnnými čepelemi.",
-      "product_price": 150,
-      "accessories_compatibility": ["Rovná bruska"],
-      "image": "image/H01.jpg"
+      "product_id": "p-operny-stolek-H01",
+      "product_name": "Opěrný stolek pro H01",
+      "product_description": "Opěrný stolek pro model H01 V1 je určen pro použití s příslušenstvím, jako je rovná bruska nebo kontaktní kolo. Jeho rozměry jsou 240×100×12 mm a umožňuje natočení v rozsahu 0–45°. Celková hmotnost opěrného stolku je 4,4 kg.",
+      "product_price": 1490,
+      "image": "image/stolekH01.jpg",
+      "accessories_compatibility": ["a-kontaktni-kolo-H31"]
     }
   ]
 }
