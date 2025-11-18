@@ -337,13 +337,6 @@
   ],
   "products": [
     {
-      "product_name": "Šroubovák ProLine",
-      "product_description": "Magnetický šroubovák s protiskluzovou rukojetí.",
-      "product_price": 220,
-      "accessories_compatibility": ["Rovná bruska"],
-      "image": "image/H01.jpg"
-    },
-    {
       "product_id": "p-operny-stolek-H01",
       "product_name": "Opěrný stolek pro H01",
       "product_description": "Opěrný stolek pro model H01 V1 je určen pro použití s příslušenstvím, jako je rovná bruska nebo kontaktní kolo. Jeho rozměry jsou 240×100×12 mm a umožňuje natočení v rozsahu 0–45°. Celková hmotnost opěrného stolku je 4,4 kg.",
