@@ -1,747 +1,755 @@
 {
-  "models": [
-    {
-      "model_id": "H01",
-      "model_name": "H01",
-      "model_description": "Univerzální pásová bruska se širokou škálou výměnného příslušenství a doplňků.",
-      "model_price": 33990,
-      "model_image": "image/H01J.jpg",
-      "model_has_variants": true,
-      "model_variants": [
+    "models": [
         {
-          "model_variant_id": "H01J1.5",
-          "model_variant_name": "Jednorychlostní, 1.5W motor",
-          "model_motor": "1.5",
-          "model_regulation": "J",
-          "model_variant_price": 33990,
-          "model_variant_supplement": 0,
-          "model_variant_image": "image/H01J.jpg",
-          "model_variant_default": true
+            "model_id": "H01",
+            "model_name": "H01",
+            "model_description": "Univerzální pásová bruska se širokou škálou výměnného příslušenství a doplňků.",
+            "model_price": 33990,
+            "model_image": "image/H01J.jpg",
+            "model_has_variants": true,
+            "model_variants": [
+                {
+                    "model_variant_id": "H01J1.5",
+                    "model_variant_name": "Jednorychlostní, 1.5W motor",
+                    "model_motor": "1.5",
+                    "model_regulation": "J",
+                    "model_variant_price": 33990,
+                    "model_variant_supplement": 0,
+                    "model_variant_image": "image/H01J.jpg",
+                    "model_variant_default": true
+                },
+                {
+                    "model_variant_id": "H01J2.2",
+                    "model_variant_name": "Jednorychlostní, 2.2W motor",
+                    "model_motor": "2.2",
+                    "model_regulation": "J",
+                    "model_variant_price": 35990,
+                    "model_variant_supplement": 2000,
+                    "model_variant_image": "image/H01J.jpg",
+                    "model_variant_default": false
+                },
+                {
+                    "model_variant_id": "H01P1.5",
+                    "model_variant_name": "Plynulá regulace, 1.5W motor",
+                    "model_motor": "1.5",
+                    "model_regulation": "P",
+                    "model_variant_price": 41990,
+                    "model_variant_supplement": 8000,
+                    "model_variant_image": "image/H01P.jpg",
+                    "model_variant_default": false
+                },
+                {
+                    "model_variant_id": "H01P2.2",
+                    "model_variant_name": "Plynulá regulace, 2.2W motor",
+                    "model_motor": "2.2",
+                    "model_regulation": "P",
+                    "model_variant_price": 45390,
+                    "model_variant_supplement": 11400,
+                    "model_variant_image": "image/H01P.jpg",
+                    "model_variant_default": false
+                }
+            ]
         },
         {
-          "model_variant_id": "H01J2.2",
-          "model_variant_name": "Jednorychlostní, 2.2W motor",
-          "model_motor": "2.2",
-          "model_regulation": "J",
-          "model_variant_price": 35990,
-          "model_variant_supplement": 2000,
-          "model_variant_image": "image/H01J.jpg",
-          "model_variant_default": false
+            "model_id": "H02",
+            "model_name": "H02",
+            "model_description": "chybí text",
+            "model_price": 43990,
+            "model_image": "image/H02J.jpg",
+            "model_has_variants": true,
+            "model_variants": [
+                {
+                    "model_variant_id": "H02J1.5",
+                    "model_variant_name": "Jednorychlostní, 1.5W motor",
+                    "model_motor": "1.5",
+                    "model_regulation": "J",
+                    "model_variant_price": 43990,
+                    "model_variant_supplement": 0,
+                    "model_variant_image": "image/H02J.jpg",
+                    "model_variant_default": true
+                },
+                {
+                    "model_variant_id": "H02J2.2",
+                    "model_variant_name": "Jednorychlostní, 2.2W motor",
+                    "model_motor": "2.2",
+                    "model_regulation": "J",
+                    "model_variant_price": 46990,
+                    "model_variant_supplement": 3000,
+                    "model_variant_image": "image/H02J.jpg",
+                    "model_variant_default": false
+                },
+                {
+                    "model_variant_id": "H02P1.5",
+                    "model_variant_name": "Plynulá regulace, 1.5W motor",
+                    "model_motor": "1.5",
+                    "model_regulation": "P",
+                    "model_variant_price": 53990,
+                    "model_variant_supplement": 10000,
+                    "model_variant_image": "image/H02P.jpg",
+                    "model_variant_default": false
+                },
+                {
+                    "model_variant_id": "H02P2.2",
+                    "model_variant_name": "Plynulá regulace, 2.2W motor",
+                    "model_motor": "2.2",
+                    "model_regulation": "P",
+                    "model_variant_price": 57990,
+                    "model_variant_supplement": 14000,
+                    "model_variant_image": "image/H02P.jpg",
+                    "model_variant_default": false
+                }
+            ]
         },
         {
-          "model_variant_id": "H01P1.5",
-          "model_variant_name": "Plynulá regulace, 1.5W motor",
-          "model_motor": "1.5",
-          "model_regulation": "P",
-          "model_variant_price": 41990,
-          "model_variant_supplement": 8000,
-          "model_variant_image": "image/H01P.jpg",
-          "model_variant_default": false
+            "model_id": "H03",
+            "model_name": "H03",
+            "model_description": "Hlavní předností této pásové brusky je možnost použití i v horizontální poloze a její široká škála volitelného příslušenství .",
+            "model_price": 33990,
+            "model_image": "image/H03J.jpg",
+            "model_has_variants": true,
+            "model_variants": [
+                {
+                    "model_variant_id": "H03J1.5",
+                    "model_variant_name": "Jednorychlostní, 1.5W motor",
+                    "model_motor": "1.5",
+                    "model_regulation": "J",
+                    "model_variant_price": 33990,
+                    "model_variant_supplement": 0,
+                    "model_variant_image": "image/H03J.jpg",
+                    "model_variant_default": true
+                },
+                {
+                    "model_variant_id": "H03P1.5",
+                    "model_variant_name": "Plynulá regulace, 1.5W motor",
+                    "model_motor": "1.5",
+                    "model_regulation": "P",
+                    "model_variant_price": 41990,
+                    "model_variant_supplement": 8000,
+                    "model_variant_image": "image/H03P.jpg",
+                    "model_variant_default": false
+                }
+            ]
         },
         {
-          "model_variant_id": "H01P2.2",
-          "model_variant_name": "Plynulá regulace, 2.2W motor",
-          "model_motor": "2.2",
-          "model_regulation": "P",
-          "model_variant_price": 45390,
-          "model_variant_supplement": 11400,
-          "model_variant_image": "image/H01P.jpg",
-          "model_variant_default": false
+            "model_id": "H31",
+            "model_name": "H31",
+            "model_description": "Ve srovnání s modelem H03 V2 nabízí tento stroj řadu významných vylepšení. Má delší pás o rozměru 50×2000 mm, větší kladky o průměru 100 mm i větší hnací kolo s průměrem 180 mm. Díky těmto úpravám je chod zařízení tišší, dochází k menšímu zahřívání a opotřebení ložisek a zároveň je dosažitelná vyšší rychlost pásu až 30 m/s. Konstrukce je celkově masivnější, přičemž jeden opěrný stolek slouží pro obě pracovní polohy a je možné jej také naklápět. Součástí vylepšení je i použití plynové vzpěry.",
+            "model_price": 53990,
+            "model_image": "image/H31P.jpg",
+            "model_has_variants": true,
+            "model_variants": [
+                {
+                    "model_variant_id": "H31P1.5",
+                    "model_variant_name": "Plynulá regulace, 1.5W motor",
+                    "model_motor": "1.5",
+                    "model_regulation": "P",
+                    "model_variant_price": 53990,
+                    "model_variant_supplement": 0,
+                    "model_variant_image": "image/H31P.jpg",
+                    "model_variant_default": true
+                },
+                {
+                    "model_variant_id": "H31P2.2",
+                    "model_variant_name": "Plynulá regulace, 2.2W motor",
+                    "model_motor": "2.2",
+                    "model_regulation": "P",
+                    "model_variant_price": 58990,
+                    "model_variant_supplement": 5000,
+                    "model_variant_image": "image/H31P.jpg",
+                    "model_variant_default": false
+                }
+            ]
+        },
+        {
+            "model_id": "H05",
+            "model_name": "H05",
+            "model_description": "Tato průmyslová pásová bruska vyniká jednoduchou obsluhou a vysokým výkonem. Robustní a masivní konstrukce zajišťuje dlouhou životnost a stabilitu při práci. Díky rychlé výměně brusného pásu je možné efektivně reagovat na různé pracovní potřeby, které dále rozšiřuje široký sortiment přídavných komponentů. Bruska nabízí volný pás s osovou roztečí kladek 400 mm, možnost použití kontaktních kol různých průměrů a šířek až do průměru 500 mm, a také funkci rovné brusky s podpěrou pásu. Úhel rovné brusky i volného pásu lze snadno nastavit, což umožňuje přesné přizpůsobení konkrétní aplikaci.",
+            "model_price": 71990,
+            "model_image": "image/H05P.jpg",
+            "model_has_variants": false,
+            "model_variants": []
         }
-      ]
-    },
-    {
-      "model_id": "H02",
-      "model_name": "H02",
-      "model_description": "chybí text",
-      "model_price": 43990,
-      "model_image": "image/H02J.jpg",
-      "model_has_variants": true,
-      "model_variants": [
+    ],
+    "accessories": [
         {
-          "model_variant_id": "H02J1.5",
-          "model_variant_name": "Jednorychlostní, 1.5W motor",
-          "model_motor": "1.5",
-          "model_regulation": "J",
-          "model_variant_price": 43990,
-          "model_variant_supplement": 0,
-          "model_variant_image": "image/H02J.jpg",
-          "model_variant_default": true
+            "accessory_id": "a-kontaktni-kolo-H01",
+            "accessory_name": "Kontaktní kolo H01",
+            "accessory_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení. Běžná tvrdost pogumování je 55-60Sh. Možnost použití opěrného stolku. Hmotnost cca 10 kg. Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování.",
+            "accessory_price": 7500,
+            "accessory_compatibility": [
+                "H01"
+            ],
+            "accessory_image": "image/kontaktnikolo.jpg",
+            "accessory_has_variants": true,
+            "accessory_variants": [
+                {
+                    "accessory_variant_id": "H01-150x50",
+                    "accessory_variant_name": "150x50",
+                    "accessory_variant_price": 7500,
+                    "accessory_variant_supplement": 0,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": true
+                },
+                {
+                    "accessory_variant_id": "H01-200x50",
+                    "accessory_variant_name": "200x50",
+                    "accessory_variant_price": 8500,
+                    "accessory_variant_supplement": 1000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H01-250x50",
+                    "accessory_variant_name": "250x50",
+                    "accessory_variant_price": 9500,
+                    "accessory_variant_supplement": 2000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H01-300x50",
+                    "accessory_variant_name": "300x50",
+                    "accessory_variant_price": 10500,
+                    "accessory_variant_supplement": 3000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                }
+            ]
         },
         {
-          "model_variant_id": "H02J2.2",
-          "model_variant_name": "Jednorychlostní, 2.2W motor",
-          "model_motor": "2.2",
-          "model_regulation": "J",
-          "model_variant_price": 46990,
-          "model_variant_supplement": 3000,
-          "model_variant_image": "image/H02J.jpg",
-          "model_variant_default": false
+            "accessory_id": "a-kontaktni-kolo-H02",
+            "accessory_name": "Kontaktní kolo H02",
+            "accessory_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení. Běžná tvrdost pogumování je 55-60Sh. Možnost použití opěrného stolku. Hmotnost cca 10 kg. Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování.",
+            "accessory_price": 7500,
+            "accessory_compatibility": [
+                "H02"
+            ],
+            "accessory_image": "image/kontaktnikolo.jpg",
+            "accessory_has_variants": true,
+            "accessory_variants": [
+                {
+                    "accessory_variant_id": "H02-150x50",
+                    "accessory_variant_name": "150x50",
+                    "accessory_variant_price": 7500,
+                    "accessory_variant_supplement": 0,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": true
+                },
+                {
+                    "accessory_variant_id": "H02-200x50",
+                    "accessory_variant_name": "200x50",
+                    "accessory_variant_price": 8500,
+                    "accessory_variant_supplement": 1000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H02-250x50",
+                    "accessory_variant_name": "250x50",
+                    "accessory_variant_price": 9500,
+                    "accessory_variant_supplement": 2000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H02-300x50",
+                    "accessory_variant_name": "300x50",
+                    "accessory_variant_price": 10500,
+                    "accessory_variant_supplement": 3000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                }
+            ]
         },
         {
-          "model_variant_id": "H02P1.5",
-          "model_variant_name": "Plynulá regulace, 1.5W motor",
-          "model_motor": "1.5",
-          "model_regulation": "P",
-          "model_variant_price": 53990,
-          "model_variant_supplement": 10000,
-          "model_variant_image": "image/H02P.jpg",
-          "model_variant_default": false
+            "accessory_id": "a-kontaktni-kolo-H03",
+            "accessory_name": "Kontaktní kolo H03",
+            "accessory_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení. Běžná tvrdost pogumování je 55-60Sh. Možnost použití opěrného stolku. Hmotnost cca 10 kg. Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování.",
+            "accessory_price": 7500,
+            "accessory_compatibility": [
+                "H03"
+            ],
+            "accessory_image": "image/kontaktnikolo.jpg",
+            "accessory_has_variants": true,
+            "accessory_variants": [
+                {
+                    "accessory_variant_id": "H03-150x50",
+                    "accessory_variant_name": "150x50",
+                    "accessory_variant_price": 7500,
+                    "accessory_variant_supplement": 0,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": true
+                },
+                {
+                    "accessory_variant_id": "H03-200x50",
+                    "accessory_variant_name": "200x50",
+                    "accessory_variant_price": 8500,
+                    "accessory_variant_supplement": 1000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H03-250x50",
+                    "accessory_variant_name": "250x50",
+                    "accessory_variant_price": 9500,
+                    "accessory_variant_supplement": 2000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H03-300x50",
+                    "accessory_variant_name": "300x50",
+                    "accessory_variant_price": 10500,
+                    "accessory_variant_supplement": 3000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                }
+            ]
         },
         {
-          "model_variant_id": "H02P2.2",
-          "model_variant_name": "Plynulá regulace, 2.2W motor",
-          "model_motor": "2.2",
-          "model_regulation": "P",
-          "model_variant_price": 57990,
-          "model_variant_supplement": 14000,
-          "model_variant_image": "image/H02P.jpg",
-          "model_variant_default": false
+            "accessory_id": "a-kontaktni-kolo-H31",
+            "accessory_name": "Kontaktní kolo H31",
+            "accessory_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení. Běžná tvrdost pogumování je 55-60Sh. Možnost použití opěrného stolku. Hmotnost cca 10 kg. Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování.",
+            "accessory_price": 7500,
+            "accessory_compatibility": [
+                "H31"
+            ],
+            "accessory_image": "image/kontaktnikolo.jpg",
+            "accessory_has_variants": true,
+            "accessory_variants": [
+                {
+                    "accessory_variant_id": "H31-150x50",
+                    "accessory_variant_name": "150x50",
+                    "accessory_variant_price": 7500,
+                    "accessory_variant_supplement": 0,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": true
+                },
+                {
+                    "accessory_variant_id": "H31-200x50",
+                    "accessory_variant_name": "200x50",
+                    "accessory_variant_price": 8500,
+                    "accessory_variant_supplement": 1000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H31-250x50",
+                    "accessory_variant_name": "250x50",
+                    "accessory_variant_price": 9500,
+                    "accessory_variant_supplement": 2000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H31-300x50",
+                    "accessory_variant_name": "300x50",
+                    "accessory_variant_price": 10500,
+                    "accessory_variant_supplement": 3000,
+                    "accessory_variant_image": "image/kontaktnikolo.jpg",
+                    "accessory_variant_default": false
+                }
+            ]
+        },
+        {
+            "accessory_id": "a-drzak-kladek-H01",
+            "accessory_name": "Držák malých kladek pro H01 ",
+            "accessory_description": "Držák malých kladek MK50 je určen k broušení a odjehlování vnitřních rádiusů. Výměnné kladky mohou být ocelové nebo pogumované, přičemž samotná kladka není součástí dodávky. Nosná tyč má profil 40×40×550 mm a je možné použít kladky o průměru 12–48 mm. Celková hmotnost držáku je přibližně 8 kg.",
+            "accessory_price": 2790,
+            "accessory_compatibility": [
+                "H01"
+            ],
+            "accessory_image": "image/drzakkladek.jpg",
+            "accessory_has_variants": false,
+            "accessory_variants": []
+        },
+        {
+            "accessory_id": "a-drzak-kladek-H02",
+            "accessory_name": "Držák malých kladek pro H02",
+            "accessory_description": "Držák malých kladek MK50 je vhodný k broušení a odjehlování vnitřních rádiusů a umožňuje použití výměnných ocelových či pogumovaných kladek. Kladka není součástí dodávky. Nosná tyč má profil 40×40×550 mm a jsou podporovány kladky s průměrem 12–48 mm. Hmotnost držáku činí zhruba 8 kg.",
+            "accessory_price": 2790,
+            "accessory_compatibility": [
+                "H02"
+            ],
+            "accessory_image": "image/kontaktnikolo.jpg",
+            "accessory_has_variants": false,
+            "accessory_variants": []
+        },
+        {
+            "accessory_id": "a-drzak-kladek-H03",
+            "accessory_name": "Držák malých kladek pro H03",
+            "accessory_description": "Držák malých kladek H03 je určen pro přesné broušení a odjehlování vnitřních rádiusů. Lze do něj použít ocelové nebo pogumované výměnné kladky; kladky ani opěrný stolek nejsou součástí dodávky. Profil nosné tyče je 30×30×550 mm a podporované průměry kladek jsou 12–48 mm. Celková hmotnost držáku je 6 kg.",
+            "accessory_price": 2790,
+            "accessory_compatibility": [
+                "H03"
+            ],
+            "accessory_image": "image/kontaktnikolo.jpg",
+            "accessory_has_variants": false,
+            "accessory_variants": []
+        },
+        {
+            "accessory_id": "a-drzak-kladek-H31",
+            "accessory_name": "Držák malých kladek pro H31",
+            "accessory_description": "Držák malých kladek H31 slouží k broušení a odjehlování vnitřních rádiusů a umožňuje použití ocelových i pogumovaných kladek. Kladky ani opěrný stolek nejsou součástí dodávky. Nosná tyč má profil 30×30×550 mm a je kompatibilní s kladkami o průměru 12–48 mm. Hmotnost držáku je 6 kg.",
+            "accessory_price": 2790,
+            "accessory_compatibility": [
+                "H31"
+            ],
+            "accessory_image": "image/kontaktnikolo.jpg",
+            "accessory_has_variants": false,
+            "accessory_variants": []
+        },
+        {
+            "accessory_id": "a-trjokladka-H01",
+            "accessory_name": "Trojkladka H01",
+            "accessory_description": "Trojkladka 50 je určena k profilovému a finálnímu broušení. Pogumování kladek má běžnou tvrdost 60–70 Sh, přičemž průměry jednotlivých kladek jsou 80, 60 a 42 mm s tolerancí −1 mm. Nosná tyč má profil 40×40×550 mm a kladky jsou vyrobeny z polyuretanu o tvrdosti 55–60 Sh. Maximální povolená teplota povrchu je 70 °C, při jejím překročení může dojít k deformaci pogumování.",
+            "accessory_price": 9390,
+            "accessory_compatibility": [
+                "H01"
+            ],
+            "accessory_image": "image/trojkladka.jpg",
+            "accessory_has_variants": false,
+            "accessory_variants": []
+        },
+        {
+            "accessory_id": "a-trjokladka-H02",
+            "accessory_name": "Trojkladka H02",
+            "accessory_description": "Trojkladka 50 je vhodná pro profilové i finální broušení a standardně je opatřena pogumováním o tvrdosti 60–70 Sh. Kladky mají průměry 80, 60 a 42 mm s tolerancí −1 mm. Konstrukce využívá nosnou tyč s profilem 40×40×550 mm a kladky jsou z polyuretanu o tvrdosti 55–60 Sh. Maximální teplota povrchu při provozu je 70 °C, jinak může dojít k poškození pogumované vrstvy.",
+            "accessory_price": 9390,
+            "accessory_compatibility": [
+                "H02"
+            ],
+            "accessory_image": "image/trojkladka.jpg",
+            "accessory_has_variants": false,
+            "accessory_variants": []
+        },
+        {
+            "accessory_id": "a-trjokladka-H03",
+            "accessory_name": "Trojkladka H03",
+            "accessory_description": "Trojkladka 50 je určena k profilovému i finálnímu broušení. Pogumování kladek má standardní tvrdost 60–70 Sh a průměry kladek jsou 80, 60 a 42 mm s tolerancí −1 mm. Nosná tyč má profil 40×40×550 mm. (Pokud chceš, doplním materiál a teplotní údaje stejně jako u ostatních variant.)",
+            "accessory_price": 9390,
+            "accessory_compatibility": [
+                "H03"
+            ],
+            "accessory_image": "image/trojkladka.jpg",
+            "accessory_has_variants": false,
+            "accessory_variants": []
+        },
+        {
+            "accessory_id": "a-trjokladka-H31",
+            "accessory_name": "Trojkladka H31",
+            "accessory_description": "Trojkladka H31 slouží k profilovému a finálnímu broušení a je vybavena pogumováním o tvrdosti 55–60 Sh. Průměry kladek jsou 80, 60 a 42 mm s tolerancí −1 mm. Nosná tyč má profil 30×30×550 mm a použité kladky jsou vyrobeny z polyuretanu o tvrdosti 60–70 Sh. Při provozu nesmí povrchová teplota překročit 70 °C, aby nedošlo k deformaci pogumování.",
+            "accessory_price": 9390,
+            "accessory_compatibility": [
+                "H31"
+            ],
+            "accessory_image": "image/trojkladka.jpg",
+            "accessory_has_variants": false,
+            "accessory_variants": []
+        },
+        {
+            "accessory_id": "a-kolo-drazkovane-H01",
+            "accessory_name": "Kontaktní kolo drážkované H01",
+            "accessory_description": "Kontaktní kolo s drážkovaným povrchem je ideální zejména pro hrubé broušení a pro aplikace vyžadující velké úběry materiálu, přičemž drážky zároveň zajišťují lepší chlazení během práce. Lze jej využít i pro finální broušení a v případě potřeby je možné doplnit jej o opěrný stolek. Nosná tyč má profil 40×40×500 mm, celková hmotnost sestavy je přibližně 10 kg a povrch kola je vyroben z polyuretanu o tvrdosti 55–60 Sh. Maximální povolená teplota povrchu je 70 °C — její překročení může způsobit deformaci pogumování.",
+            "accessory_price": 7500,
+            "accessory_compatibility": [
+                "H01"
+            ],
+            "accessory_image": "image/drazkovanekolo.jpg",
+            "accessory_has_variants": true,
+            "accessory_variants": [
+                {
+                    "accessory_variant_id": "H01-drazkovane-150x50",
+                    "accessory_variant_name": "150x50",
+                    "accessory_variant_price": 7500,
+                    "accessory_variant_supplement": 0,
+                    "accessory_variant_image": "image/drazkovanekolo.jpg",
+                    "accessory_variant_default": true
+                },
+                {
+                    "accessory_variant_id": "H01-drazkovane-200x50",
+                    "accessory_variant_name": "200x50",
+                    "accessory_variant_price": 8500,
+                    "accessory_variant_supplement": 1000,
+                    "accessory_variant_image": "image/drazkovanekolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H01-drazkovane-250x50",
+                    "accessory_variant_name": "250x50",
+                    "accessory_variant_price": 9500,
+                    "accessory_variant_supplement": 2000,
+                    "accessory_variant_image": "image/drazkovanekolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H01-drazkovane-300x50",
+                    "accessory_variant_name": "300x50",
+                    "accessory_variant_price": 10500,
+                    "accessory_variant_supplement": 3000,
+                    "accessory_variant_image": "image/drazkovanekolo.jpg",
+                    "accessory_variant_default": false
+                }
+            ]
+        },
+        {
+            "accessory_id": "a-kolo-drazkovane-H02",
+            "accessory_name": "Kontaktní kolo drážkované H02",
+            "accessory_description": "Kontaktní kolo s drážkovaným povrchem je ideální zejména pro hrubé broušení a pro aplikace vyžadující velké úběry materiálu, přičemž drážky zároveň zajišťují lepší chlazení během práce. Lze jej využít i pro finální broušení a v případě potřeby je možné doplnit jej o opěrný stolek. Nosná tyč má profil 40×40×500 mm, celková hmotnost sestavy je přibližně 10 kg a povrch kola je vyroben z polyuretanu o tvrdosti 55–60 Sh. Maximální povolená teplota povrchu je 70 °C — její překročení může způsobit deformaci pogumování.",
+            "accessory_price": 7500,
+            "accessory_compatibility": [
+                "H02"
+            ],
+            "accessory_image": "image/drazkovanekolo.jpg",
+            "accessory_has_variants": true,
+            "accessory_variants": [
+                {
+                    "accessory_variant_id": "H02-drazkovane-150x50",
+                    "accessory_variant_name": "150x50",
+                    "accessory_variant_price": 7500,
+                    "accessory_variant_supplement": 0,
+                    "accessory_variant_image": "image/drazkovanekolo.jpg",
+                    "accessory_variant_default": true
+                },
+                {
+                    "accessory_variant_id": "H02-drazkovane-200x50",
+                    "accessory_variant_name": "200x50",
+                    "accessory_variant_price": 8500,
+                    "accessory_variant_supplement": 1000,
+                    "accessory_variant_image": "image/drazkovanekolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H02-drazkovane-250x50",
+                    "accessory_variant_name": "250x50",
+                    "accessory_variant_price": 9500,
+                    "accessory_variant_supplement": 2000,
+                    "accessory_variant_image": "image/drazkovanekolo.jpg",
+                    "accessory_variant_default": false
+                },
+                {
+                    "accessory_variant_id": "H02-drazkovane-300x50",
+                    "accessory_variant_name": "300x50",
+                    "accessory_variant_price": 10500,
+                    "accessory_variant_supplement": 3000,
+                    "accessory_variant_image": "image/drazkovanekolo.jpg",
+                    "accessory_variant_default": false
+                }
+            ]
+        },
+        {
+            "accessory_id": "a-rovna-bruska-H01",
+            "accessory_name": "Rovná bruska H01",
+            "accessory_description": "Rovná bruska je určena pro přesné rovinné broušení ploch a umožňuje nastavení pracovní plochy v rozmezí 0–45°, což zajišťuje flexibilní použití pro různé aplikace. Pro pohodlnější a stabilnější práci se doporučuje použití opěrného stolku, který však není součástí dodávky.",
+            "accessory_price": 8900,
+            "accessory_compatibility": [
+                "H01"
+            ],
+            "accessory_image": "image/rovnabruskaH01.jpg",
+            "accessory_has_variants": true,
+            "accessory_variants": [
+                {
+                    "accessory_variant_id": "a-rovna-bruska-H01-zaklad",
+                    "accessory_variant_name": "Základní provedení",
+                    "accessory_variant_price": 8900,
+                    "accessory_variant_supplement": 0,
+                    "accessory_variant_image": "image/rovnabruska.jpg",
+                    "accessory_variant_default": true
+                },
+                {
+                    "accessory_variant_id": "a-rovna-bruska-H01-profi",
+                    "accessory_variant_name": "Lepší opěrku pásu dodat z kaleného materálu (60HRC).",
+                    "accessory_variant_price": 10352,
+                    "accessory_variant_supplement": 1452,
+                    "accessory_variant_image": "image/rovnabruska.jpg",
+                    "accessory_variant_default": false
+                }
+            ]
+        },
+        {
+            "accessory_id": "a-rovna-bruska-H03",
+            "accessory_name": "Rovná bruska H03",
+            "accessory_description": "Rovná bruska je určena pro přesné rovinné broušení ploch a umožňuje nastavení pracovní plochy v rozmezí 0–45°, což zajišťuje flexibilní použití pro různé aplikace. Pro pohodlnější a stabilnější práci se doporučuje použití opěrného stolku, který však není součástí dodávky.",
+            "accessory_price": 7970,
+            "accessory_compatibility": [
+                "H03"
+            ],
+            "accessory_image": "image/rovnabruskaH03.jpg",
+            "accessory_has_variants": true,
+            "accessory_variants": [
+                {
+                    "accessory_variant_id": "a-rovna-bruska-H03-zaklad",
+                    "accessory_variant_name": "Základní provedení",
+                    "accessory_variant_price": 7970,
+                    "accessory_variant_supplement": 0,
+                    "accessory_variant_image": "image/rovnabruskaH03.jpg",
+                    "accessory_variant_default": true
+                },
+                {
+                    "accessory_variant_id": "a-rovna-bruska-H03-profi",
+                    "accessory_variant_name": "Lepší opěrku pásu dodat z kaleného materálu (60HRC).",
+                    "accessory_variant_price": 9301,
+                    "accessory_variant_supplement": 1331,
+                    "accessory_variant_image": "image/rovnabruskaH03.jpg",
+                    "accessory_variant_default": false
+                }
+            ]
+        },
+        {
+            "accessory_id": "a-volny-pas-H01",
+            "accessory_name": "Volný pás H01",
+            "accessory_description": "Volný pás 50 je vhodný k broušení a odjehlování složitých tvarů a ploch. Pás je možné nastavit pod úhlem 0-45°.",
+            "accessory_price": 8300,
+            "accessory_compatibility": [
+                "H01"
+            ],
+            "accessory_image": "image/volnypas.jpg",
+            "accessory_has_variants": false,
+            "accessory_variants": []
         }
-      ]
-    },
-    {
-      "model_id": "H03",
-      "model_name": "H03",
-      "model_description": "Hlavní předností této pásové brusky je možnost použití i v horizontální poloze a její široká škála volitelného příslušenství .",
-      "model_price": 33990,
-      "model_image": "image/H03J.jpg",
-      "model_has_variants": true,
-      "model_variants": [
+    ],
+    "products": [
         {
-          "model_variant_id": "H03J1.5",
-          "model_variant_name": "Jednorychlostní, 1.5W motor",
-          "model_motor": "1.5",
-          "model_regulation": "J",
-          "model_variant_price": 33990,
-          "model_variant_supplement": 0,
-          "model_variant_image": "image/H03J.jpg",
-          "model_variant_default": true
+            "product_id": "p-operny-stolek-H01",
+            "product_name": "Opěrný stolek pro H01",
+            "product_description": "Opěrný stolek pro model H01 V1 je určen pro použití s příslušenstvím, jako je rovná bruska nebo kontaktní kolo. Jeho rozměry jsou 240×100×12 mm a umožňuje natočení v rozsahu 0–45°. Celková hmotnost opěrného stolku je 4,4 kg.",
+            "product_price": 1490,
+            "product_image": "image/stolekH01.jpg",
+            "product_compatibility": [
+                "a-kontaktni-kolo-H01",
+                "a-rovna-bruska-H01"
+            ],
+            "product_has_variants": false,
+            "variants": []
         },
         {
-          "model_variant_id": "H03P1.5",
-          "model_variant_name": "Plynulá regulace, 1.5W motor",
-          "model_motor": "1.5",
-          "model_regulation": "P",
-          "model_variant_price": 41990,
-          "model_variant_supplement": 8000,
-          "model_variant_image": "image/H03P.jpg",
-          "model_variant_default": false
+            "product_id": "p-odsavaci-hubice-H01",
+            "product_name": "Odsávací hubice H01",
+            "product_description": "Vnitřní průměr připojovací hadice: 100 mm. Hmotnost 3kg.",
+            "product_price": 2490,
+            "product_image": "image/hubiceH01.jpg",
+            "product_compatibility": [
+                "a-kontaktni-kolo-H01",
+                "a-rovna-bruska-H01",
+                "a-kolo-drazkovane-H01"
+            ],
+            "product_has_variants": false,
+            "variants": []
+        },
+        {
+            "product_id": "p-operny-stolek-malych-kladek-H01",
+            "product_name": "Opěrný stolek pro držák malých kladek H01",
+            "product_description": "Opěrný stolek je možné použít u držáku malých kladek.",
+            "product_price": 1890,
+            "product_image": "image/stolekmalychkladekH01.jpg",
+            "product_compatibility": [
+                "a-drzak-kladek-H01"
+            ],
+            "product_has_variants": false,
+            "variants": []
+        },
+        {
+            "product_id": "p-operny-stolek-malych-kladek-H02",
+            "product_name": "Opěrný stolek pro držák malých kladek H02",
+            "product_description": "Opěrný stolek je možné použít u držáku malých kladek.",
+            "product_price": 1890,
+            "product_image": "image/stolekmalychkladekH02.jpg",
+            "product_compatibility": [
+                "a-drzak-kladek-H02"
+            ],
+            "product_has_variants": false,
+            "variants": []
+        },
+        {
+            "product_id": "p-operny-stolek-VP",
+            "product_name": "Opěrný stolek RB, KK - VP",
+            "product_description": "Opěrný stolek je možné použít u rovné brusky ve vertikální poloze a kontatního kola ve vertikální poloze.",
+            "product_price": 1100,
+            "product_image": "image/stolekVP.jpg",
+            "product_compatibility": [
+                "a-kontaktni-kolo-H03",
+                "a-rovna-bruska-H03"
+            ],
+            "product_has_variants": false,
+            "variants": []
+        },
+        {
+            "product_id": "p-operny-stolek-HP",
+            "product_name": "Opěrný stolek RB - HP",
+            "product_description": "Opěrný stolek je možné použít u rovné brusky v horizontální poloze.",
+            "product_price": 1700,
+            "product_image": "image/stolekHP.jpg",
+            "product_compatibility": [
+                "a-kontaktni-kolo-H03",
+                "a-rovna-bruska-H03"
+            ],
+            "product_has_variants": false,
+            "variants": []
+        },
+        {
+            "product_id": "p-mala-kladka-pogumovana",
+            "product_name": "Malá kladka pogumovaná",
+            "product_description": "Malá kladka je vhodná k broušení a odjehlování vnitřních rádiusů. Materiál: polyuretan tvrdosti 55-60 Sh Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování. Různé průměry.",
+            "product_price": 1790,
+            "product_image": "image/malakladka.jpg",
+            "product_compatibility": [
+                "a-drzak-kladek-H01",
+                "a-drzak-kladek-H02",
+                "a-drzak-kladek-H03",
+                "a-drzak-kladek-H31"
+            ],
+            "product_has_variants": true,
+            "variants": [
+                {
+                    "product_variant_id": "mala-kladka-pogumovana-12",
+                    "product_variant_name": "12",
+                    "product_variant_price": 1790,
+                    "accessory_variant_supplement": 0,
+                    "product_variant_default": true
+                },
+                {
+                    "product_variant_id": "mala-kladka-pogumovana-18",
+                    "product_variant_name": "18",
+                    "product_variant_price": 1790,
+                    "accessory_variant_supplement": 0,
+                    "product_variant_default": false
+                },
+                {
+                    "product_variant_id": "mala-kladka-pogumovana-24",
+                    "product_variant_name": "24",
+                    "product_variant_price": 1790,
+                    "accessory_variant_supplement": 0,
+                    "product_variant_default": false
+                },
+                {
+                    "product_variant_id": "mala-kladka-pogumovana-30",
+                    "product_variant_name": "30",
+                    "product_variant_price": 1790,
+                    "accessory_variant_supplement": 0,
+                    "product_variant_default": false
+                },
+                {
+                    "product_variant_id": "mala-kladka-pogumovana-36",
+                    "product_variant_name": "36",
+                    "product_variant_price": 1790,
+                    "accessory_variant_supplement": 0,
+                    "product_variant_default": false
+                },
+                {
+                    "product_variant_id": "mala-kladka-pogumovana-42",
+                    "product_variant_name": "42",
+                    "product_variant_price": 1790,
+                    "accessory_variant_supplement": 0,
+                    "product_variant_default": false
+                },
+                {
+                    "product_variant_id": "mala-kladka-pogumovana-48",
+                    "product_variant_name": "48",
+                    "product_variant_price": 1790,
+                    "accessory_variant_supplement": 0,
+                    "product_variant_default": false
+                }
+            ]
         }
-      ]
-    },
-    {
-      "model_id": "H31",
-      "model_name": "H31",
-      "model_description": "Ve srovnání s modelem H03 V2 nabízí tento stroj řadu významných vylepšení. Má delší pás o rozměru 50×2000 mm, větší kladky o průměru 100 mm i větší hnací kolo s průměrem 180 mm. Díky těmto úpravám je chod zařízení tišší, dochází k menšímu zahřívání a opotřebení ložisek a zároveň je dosažitelná vyšší rychlost pásu až 30 m/s. Konstrukce je celkově masivnější, přičemž jeden opěrný stolek slouží pro obě pracovní polohy a je možné jej také naklápět. Součástí vylepšení je i použití plynové vzpěry.",
-      "model_price": 53990,
-      "model_image": "image/H31P.jpg",
-      "model_has_variants": true,
-      "model_variants": [
-        {
-          "model_variant_id": "H31P1.5",
-          "model_variant_name": "Plynulá regulace, 1.5W motor",
-          "model_motor": "1.5",
-          "model_regulation": "P",
-          "model_variant_price": 53990,
-          "model_variant_supplement": 0,
-          "model_variant_image": "image/H31P.jpg",
-          "model_variant_default": true
-        },
-        {
-          "model_variant_id": "H31P2.2",
-          "model_variant_name": "Plynulá regulace, 1.5W motor",
-          "model_motor": "2.2",
-          "model_regulation": "P",
-          "model_variant_price": 58990,
-          "model_variant_supplement": 5000,
-          "model_variant_image": "image/H31P.jpg",
-          "model_variant_default": false
-        }
-      ]
-    },
-    {
-      "model_id": "H05",
-      "model_name": "H05",
-      "model_description": "Tato průmyslová pásová bruska vyniká jednoduchou obsluhou a vysokým výkonem. Robustní a masivní konstrukce zajišťuje dlouhou životnost a stabilitu při práci. Díky rychlé výměně brusného pásu je možné efektivně reagovat na různé pracovní potřeby, které dále rozšiřuje široký sortiment přídavných komponentů. Bruska nabízí volný pás s osovou roztečí kladek 400 mm, možnost použití kontaktních kol různých průměrů a šířek až do průměru 500 mm, a také funkci rovné brusky s podpěrou pásu. Úhel rovné brusky i volného pásu lze snadno nastavit, což umožňuje přesné přizpůsobení konkrétní aplikaci.",
-      "model_price": 71990,
-      "model_image": "image/H05P.jpg",
-      "model_has_variants": false,
-      "model_variants": []
-    }
-  ],
-  "accessories": [
-    {
-      "accessory_id": "a-kontaktni-kolo-H01",
-      "accessory_name": "Kontaktní kolo H01",
-      "accessory_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení. Běžná tvrdost pogumování je 55-60Sh. Možnost použití opěrného stolku. Hmotnost cca 10 kg. Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování.",
-      "accessory_price": 7500,
-      "accessory_compatibility": [
-        "H01"
-      ],
-      "accessory_image": "image/kontaktnikolo.jpg",
-      "accessory_has_variants": true,
-      "accessory_variants": [
-        {
-          "accessory_variant_id": "H01-150x50",
-          "accessory_variant_name": "150x50",
-          "accessory_variant_price": 7500,
-          "accessory_variant_supplement": 0,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": true
-        },
-        {
-          "accessory_variant_id": "H01-200x50",
-          "accessory_variant_name": "200x50",
-          "accessory_variant_price": 8500,
-          "accessory_variant_supplement": 1000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H01-250x50",
-          "accessory_variant_name": "250x50",
-          "accessory_variant_price": 9500,
-          "accessory_variant_supplement": 2000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H01-300x50",
-          "accessory_variant_name": "300x50",
-          "accessory_variant_price": 10500,
-          "accessory_variant_supplement": 3000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        }
-      ]
-    },
-    {
-      "accessory_id": "a-kontaktni-kolo-H02",
-      "accessory_name": "Kontaktní kolo H02",
-      "accessory_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení. Běžná tvrdost pogumování je 55-60Sh. Možnost použití opěrného stolku. Hmotnost cca 10 kg. Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování.",
-      "accessory_price": 7500,
-      "accessory_compatibility": [
-        "H02"
-      ],
-      "accessory_image": "image/kontaktnikolo.jpg",
-      "accessory_has_variants": true,
-      "accessory_variants": [
-        {
-          "accessory_variant_id": "H02-150x50",
-          "accessory_variant_name": "150x50",
-          "accessory_variant_price": 7500,
-          "accessory_variant_supplement": 0,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": true
-        },
-        {
-          "accessory_variant_id": "H02-200x50",
-          "accessory_variant_name": "200x50",
-          "accessory_variant_price": 8500,
-          "accessory_variant_supplement": 1000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H02-250x50",
-          "accessory_variant_name": "250x50",
-          "accessory_variant_price": 9500,
-          "accessory_variant_supplement": 2000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H02-300x50",
-          "accessory_variant_name": "300x50",
-          "accessory_variant_price": 10500,
-          "accessory_variant_supplement": 3000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        }
-      ]
-    },
-    {
-      "accessory_id": "a-kontaktni-kolo-H03",
-      "accessory_name": "Kontaktní kolo H03",
-      "accessory_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení. Běžná tvrdost pogumování je 55-60Sh. Možnost použití opěrného stolku. Hmotnost cca 10 kg. Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování.",
-      "accessory_price": 7500,
-      "accessory_compatibility": [
-        "H03"
-      ],
-      "accessory_image": "image/kontaktnikolo.jpg",
-      "accessory_has_variants": true,
-      "accessory_variants": [
-        {
-          "accessory_variant_id": "H03-150x50",
-          "accessory_variant_name": "150x50",
-          "accessory_variant_price": 7500,
-          "accessory_variant_supplement": 0,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": true
-        },
-        {
-          "accessory_variant_id": "H03-200x50",
-          "accessory_variant_name": "200x50",
-          "accessory_variant_price": 8500,
-          "accessory_variant_supplement": 1000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H03-250x50",
-          "accessory_variant_name": "250x50",
-          "accessory_variant_price": 9500,
-          "accessory_variant_supplement": 2000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H03-300x50",
-          "accessory_variant_name": "300x50",
-          "accessory_variant_price": 10500,
-          "accessory_variant_supplement": 3000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        }
-      ]
-    },
-    {
-      "accessory_id": "a-kontaktni-kolo-H31",
-      "accessory_name": "Kontaktní kolo H31",
-      "accessory_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení. Běžná tvrdost pogumování je 55-60Sh. Možnost použití opěrného stolku. Hmotnost cca 10 kg. Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování.",
-      "accessory_price": 7500,
-      "accessory_compatibility": [
-        "H31"
-      ],
-      "accessory_image": "image/kontaktnikolo.jpg",
-      "accessory_has_variants": true,
-      "accessory_variants": [
-        {
-          "accessory_variant_id": "H31-150x50",
-          "accessory_variant_name": "150x50",
-          "accessory_variant_price": 7500,
-          "accessory_variant_supplement": 0,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": true
-        },
-        {
-          "accessory_variant_id": "H31-200x50",
-          "accessory_variant_name": "200x50",
-          "accessory_variant_price": 8500,
-          "accessory_variant_supplement": 1000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H31-250x50",
-          "accessory_variant_name": "250x50",
-          "accessory_variant_price": 9500,
-          "accessory_variant_supplement": 2000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H31-300x50",
-          "accessory_variant_name": "300x50",
-          "accessory_variant_price": 10500,
-          "accessory_variant_supplement": 3000,
-          "accessory_variant_image": "image/kontaktnikolo.jpg",
-          "accessory_variant_default": false
-        }
-      ]
-    },
-    {
-      "accessory_id": "a-drzak-kladek-H01",
-      "accessory_name": "Držák malých kladek pro H01 ",
-      "accessory_description": "Držák malých kladek MK50 je určen k broušení a odjehlování vnitřních rádiusů. Výměnné kladky mohou být ocelové nebo pogumované, přičemž samotná kladka není součástí dodávky. Nosná tyč má profil 40×40×550 mm a je možné použít kladky o průměru 12–48 mm. Celková hmotnost držáku je přibližně 8 kg.",
-      "accessory_price": 2790,
-      "accessory_compatibility": [
-        "H01"
-      ],
-      "accessory_image": "image/drzakkladek.jpg",
-      "accessory_has_variants": false,
-      "accessory_variants": []
-    },
-    {
-      "accessory_id": "a-drzak-kladek-H02",
-      "accessory_name": "Držák malých kladek pro H02",
-      "accessory_description": "Držák malých kladek MK50 je vhodný k broušení a odjehlování vnitřních rádiusů a umožňuje použití výměnných ocelových či pogumovaných kladek. Kladka není součástí dodávky. Nosná tyč má profil 40×40×550 mm a jsou podporovány kladky s průměrem 12–48 mm. Hmotnost držáku činí zhruba 8 kg.",
-      "accessory_price": 2790,
-      "accessory_compatibility": [
-        "H02"
-      ],
-      "accessory_image": "image/kontaktnikolo.jpg",
-      "accessory_has_variants": false,
-      "accessory_variants": []
-    },
-    {
-      "accessory_id": "a-drzak-kladek-H03",
-      "accessory_name": "Držák malých kladek pro H03",
-      "accessory_description": "Držák malých kladek H03 je určen pro přesné broušení a odjehlování vnitřních rádiusů. Lze do něj použít ocelové nebo pogumované výměnné kladky; kladky ani opěrný stolek nejsou součástí dodávky. Profil nosné tyče je 30×30×550 mm a podporované průměry kladek jsou 12–48 mm. Celková hmotnost držáku je 6 kg.",
-      "accessory_price": 2790,
-      "accessory_compatibility": [
-        "H03"
-      ],
-      "accessory_image": "image/kontaktnikolo.jpg",
-      "accessory_has_variants": false,
-      "accessory_variants": []
-    },
-    {
-      "accessory_id": "a-drzak-kladek-H31",
-      "accessory_name": "Držák malých kladek pro H31",
-      "accessory_description": "Držák malých kladek H31 slouží k broušení a odjehlování vnitřních rádiusů a umožňuje použití ocelových i pogumovaných kladek. Kladky ani opěrný stolek nejsou součástí dodávky. Nosná tyč má profil 30×30×550 mm a je kompatibilní s kladkami o průměru 12–48 mm. Hmotnost držáku je 6 kg.",
-      "accessory_price": 2790,
-      "accessory_compatibility": [
-        "H31"
-      ],
-      "accessory_image": "image/kontaktnikolo.jpg",
-      "accessory_has_variants": false,
-      "accessory_variants": []
-    },
-    {
-      "accessory_id": "a-trjokladka-H01",
-      "accessory_name": "Trojkladka H01",
-      "accessory_description": "Trojkladka 50 je určena k profilovému a finálnímu broušení. Pogumování kladek má běžnou tvrdost 60–70 Sh, přičemž průměry jednotlivých kladek jsou 80, 60 a 42 mm s tolerancí −1 mm. Nosná tyč má profil 40×40×550 mm a kladky jsou vyrobeny z polyuretanu o tvrdosti 55–60 Sh. Maximální povolená teplota povrchu je 70 °C, při jejím překročení může dojít k deformaci pogumování.",
-      "accessory_price": 9390,
-      "accessory_compatibility": [
-        "H01"
-      ],
-      "accessory_image": "image/trojkladka.jpg",
-      "accessory_has_variants": false,
-      "accessory_variants": []
-    },
-    {
-      "accessory_id": "a-trjokladka-H02",
-      "accessory_name": "Trojkladka H02",
-      "accessory_description": "Trojkladka 50 je vhodná pro profilové i finální broušení a standardně je opatřena pogumováním o tvrdosti 60–70 Sh. Kladky mají průměry 80, 60 a 42 mm s tolerancí −1 mm. Konstrukce využívá nosnou tyč s profilem 40×40×550 mm a kladky jsou z polyuretanu o tvrdosti 55–60 Sh. Maximální teplota povrchu při provozu je 70 °C, jinak může dojít k poškození pogumované vrstvy.",
-      "accessory_price": 9390,
-      "accessory_compatibility": [
-        "H02"
-      ],
-      "accessory_image": "image/trojkladka.jpg",
-      "accessory_has_variants": false,
-      "accessory_variants": []
-    },
-    {
-      "accessory_id": "a-trjokladka-H03",
-      "accessory_name": "Trojkladka H03",
-      "accessory_description": "Trojkladka 50 je určena k profilovému i finálnímu broušení. Pogumování kladek má standardní tvrdost 60–70 Sh a průměry kladek jsou 80, 60 a 42 mm s tolerancí −1 mm. Nosná tyč má profil 40×40×550 mm. (Pokud chceš, doplním materiál a teplotní údaje stejně jako u ostatních variant.)",
-      "accessory_price": 9390,
-      "accessory_compatibility": [
-        "H03"
-      ],
-      "accessory_image": "image/trojkladka.jpg",
-      "accessory_has_variants": false,
-      "accessory_variants": []
-    },
-    {
-      "accessory_id": "a-trjokladka-H31",
-      "accessory_name": "Trojkladka H31",
-      "accessory_description": "Trojkladka H31 slouží k profilovému a finálnímu broušení a je vybavena pogumováním o tvrdosti 55–60 Sh. Průměry kladek jsou 80, 60 a 42 mm s tolerancí −1 mm. Nosná tyč má profil 30×30×550 mm a použité kladky jsou vyrobeny z polyuretanu o tvrdosti 60–70 Sh. Při provozu nesmí povrchová teplota překročit 70 °C, aby nedošlo k deformaci pogumování.",
-      "accessory_price": 9390,
-      "accessory_compatibility": [
-        "H31"
-      ],
-      "accessory_image": "image/trojkladka.jpg",
-      "accessory_has_variants": false,
-      "accessory_variants": []
-    },
-    {
-      "accessory_id": "a-kolo-drazkovane-H01",
-      "accessory_name": "Kontaktní kolo drážkované H01",
-      "accessory_description": "Kontaktní kolo s drážkovaným povrchem je ideální zejména pro hrubé broušení a pro aplikace vyžadující velké úběry materiálu, přičemž drážky zároveň zajišťují lepší chlazení během práce. Lze jej využít i pro finální broušení a v případě potřeby je možné doplnit jej o opěrný stolek. Nosná tyč má profil 40×40×500 mm, celková hmotnost sestavy je přibližně 10 kg a povrch kola je vyroben z polyuretanu o tvrdosti 55–60 Sh. Maximální povolená teplota povrchu je 70 °C — její překročení může způsobit deformaci pogumování.",
-      "accessory_price": 7500,
-      "accessory_compatibility": [
-        "H01"
-      ],
-      "accessory_image": "image/drazkovanekolo.jpg",
-      "accessory_has_variants": true,
-      "accessory_variants": [
-        {
-          "accessory_variant_id": "H01-drazkovane-150x50",
-          "accessory_variant_name": "150x50",
-          "accessory_variant_price": 7500,
-          "accessory_variant_supplement": 0,
-          "accessory_variant_image": "image/drazkovanekolo.jpg",
-          "accessory_variant_default": true
-        },
-        {
-          "accessory_variant_id": "H01-drazkovane-200x50",
-          "accessory_variant_name": "200x50",
-          "accessory_variant_price": 8500,
-          "accessory_variant_supplement": 1000,
-          "accessory_variant_image": "image/drazkovanekolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H01-drazkovane-250x50",
-          "accessory_variant_name": "250x50",
-          "accessory_variant_price": 9500,
-          "accessory_variant_supplement": 2000,
-          "accessory_variant_image": "image/drazkovanekolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H01-drazkovane-300x50",
-          "accessory_variant_name": "300x50",
-          "accessory_variant_price": 10500,
-          "accessory_variant_supplement": 3000,
-          "accessory_variant_image": "image/drazkovanekolo.jpg",
-          "accessory_variant_default": false
-        }
-      ]
-    },
-    {
-      "accessory_id": "a-kolo-drazkovane-H02",
-      "accessory_name": "Kontaktní kolo drážkované H02",
-      "accessory_description": "Kontaktní kolo s drážkovaným povrchem je ideální zejména pro hrubé broušení a pro aplikace vyžadující velké úběry materiálu, přičemž drážky zároveň zajišťují lepší chlazení během práce. Lze jej využít i pro finální broušení a v případě potřeby je možné doplnit jej o opěrný stolek. Nosná tyč má profil 40×40×500 mm, celková hmotnost sestavy je přibližně 10 kg a povrch kola je vyroben z polyuretanu o tvrdosti 55–60 Sh. Maximální povolená teplota povrchu je 70 °C — její překročení může způsobit deformaci pogumování.",
-      "accessory_price": 7500,
-      "accessory_compatibility": [
-        "H02"
-      ],
-      "accessory_image": "image/drazkovanekolo.jpg",
-      "accessory_has_variants": true,
-      "accessory_variants": [
-        {
-          "accessory_variant_id": "H02-drazkovane-150x50",
-          "accessory_variant_name": "150x50",
-          "accessory_variant_price": 7500,
-          "accessory_variant_supplement": 0,
-          "accessory_variant_image": "image/drazkovanekolo.jpg",
-          "accessory_variant_default": true
-        },
-        {
-          "accessory_variant_id": "H02-drazkovane-200x50",
-          "accessory_variant_name": "200x50",
-          "accessory_variant_price": 8500,
-          "accessory_variant_supplement": 1000,
-          "accessory_variant_image": "image/drazkovanekolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H02-drazkovane-250x50",
-          "accessory_variant_name": "250x50",
-          "accessory_variant_price": 9500,
-          "accessory_variant_supplement": 2000,
-          "accessory_variant_image": "image/drazkovanekolo.jpg",
-          "accessory_variant_default": false
-        },
-        {
-          "accessory_variant_id": "H02-drazkovane-300x50",
-          "accessory_variant_name": "300x50",
-          "accessory_variant_price": 10500,
-          "accessory_variant_supplement": 3000,
-          "accessory_variant_image": "image/drazkovanekolo.jpg",
-          "accessory_variant_default": false
-        }
-      ]
-    },
-    {
-      "accessory_id": "a-rovna-bruska-H01",
-      "accessory_name": "Rovná bruska H01",
-      "accessory_description": "Rovná bruska je určena pro přesné rovinné broušení ploch a umožňuje nastavení pracovní plochy v rozmezí 0–45°, což zajišťuje flexibilní použití pro různé aplikace. Pro pohodlnější a stabilnější práci se doporučuje použití opěrného stolku, který však není součástí dodávky.",
-      "accessory_price": 8900,
-      "accessory_compatibility": [
-        "H01"
-      ],
-      "accessory_image": "image/rovnabruskaH01.jpg",
-      "accessory_has_variants": true,
-      "accessory_variants": [
-        {
-          "accessory_variant_id": "a-rovna-bruska-H01-zaklad",
-          "accessory_variant_name": "Základní provedení",
-          "accessory_variant_price": 8900,
-          "accessory_variant_supplement": 0,
-          "accessory_variant_image": "image/rovnabruska.jpg",
-          "accessory_variant_default": true
-        },
-        {
-          "accessory_variant_id": "a-rovna-bruska-H01-profi",
-          "accessory_variant_name": "Lepší opěrku pásu dodat z kaleného materálu (60HRC).",
-          "accessory_variant_price": 10352,
-          "accessory_variant_supplement": 1452,
-          "accessory_variant_image": "image/rovnabruska.jpg",
-          "accessory_variant_default": false
-        }
-      ]
-    },
-    {
-      "accessory_id": "a-rovna-bruska-H03",
-      "accessory_name": "Rovná bruska H03",
-      "accessory_description": "Rovná bruska je určena pro přesné rovinné broušení ploch a umožňuje nastavení pracovní plochy v rozmezí 0–45°, což zajišťuje flexibilní použití pro různé aplikace. Pro pohodlnější a stabilnější práci se doporučuje použití opěrného stolku, který však není součástí dodávky.",
-      "accessory_price": 7970,
-      "accessory_compatibility": [
-        "H03"
-      ],
-      "accessory_image": "image/rovnabruskaH03.jpg",
-      "accessory_has_variants": true,
-      "accessory_variants": [
-        {
-          "accessory_variant_id": "a-rovna-bruska-H03-zaklad",
-          "accessory_variant_name": "Základní provedení",
-          "accessory_variant_price": 7970,
-          "accessory_variant_supplement": 0,
-          "accessory_variant_image": "image/rovnabruskaH03.jpg",
-          "accessory_variant_default": true
-        },
-        {
-          "accessory_variant_id": "a-rovna-bruska-H03-profi",
-          "accessory_variant_name": "Lepší opěrku pásu dodat z kaleného materálu (60HRC).",
-          "accessory_variant_price": 9301,
-          "accessory_variant_supplement": 1331,
-          "accessory_variant_image": "image/rovnabruskaH03.jpg",
-          "accessory_variant_default": false
-        }
-      ]
-    },
-    {
-      "accessory_id": "a-volny-pas-H01",
-      "accessory_name": "Volný pás H01",
-      "accessory_description": "Volný pás 50 je vhodný k broušení a odjehlování složitých tvarů a ploch. Pás je možné nastavit pod úhlem 0-45°.",
-      "accessory_price": 8300,
-      "accessory_compatibility": [
-        "H01"
-      ],
-      "accessory_image": "image/volnypas.jpg",
-      "accessory_has_variants": false,
-      "accessory_variants": []
-    }
-  ],
-  "products": [
-    {
-      "product_id": "p-operny-stolek-H01",
-      "product_name": "Opěrný stolek pro H01",
-      "product_description": "Opěrný stolek pro model H01 V1 je určen pro použití s příslušenstvím, jako je rovná bruska nebo kontaktní kolo. Jeho rozměry jsou 240×100×12 mm a umožňuje natočení v rozsahu 0–45°. Celková hmotnost opěrného stolku je 4,4 kg.",
-      "product_price": 1490,
-      "product_image": "image/stolekH01.jpg",
-      "product_compatibility": [
-        "a-kontaktni-kolo-H01",
-        "a-rovna-bruska-H01"
-      ],
-      "product_has_variants": false
-    },
-    {
-      "product_id": "p-odsavaci-hubice-H01",
-      "product_name": "Odsávací hubice H01",
-      "product_description": "Vnitřní průměr připojovací hadice: 100 mm. Hmotnost 3kg.",
-      "product_price": 2490,
-      "product_image": "image/hubiceH01.jpg",
-      "product_compatibility": [
-        "a-kontaktni-kolo-H01",
-        "a-rovna-bruska-H01",
-        "a-kolo-drazkovane-H01"
-      ],
-      "product_has_variants": false
-    },
-    {
-      "product_id": "p-operny-stolek-malych-kladek-H01",
-      "product_name": "Opěrný stolek pro držák malých kladek H01",
-      "product_description": "Opěrný stolek je možné použít u držáku malých kladek.",
-      "product_price": 1890,
-      "product_image": "image/stolekmalychkladekH01.jpg",
-      "product_compatibility": [
-        "a-drzak-kladek-H01"
-      ],
-      "product_has_variants": false
-    },
-    {
-      "product_id": "p-operny-stolek-malych-kladek-H02",
-      "product_name": "Opěrný stolek pro držák malých kladek H02",
-      "product_description": "Opěrný stolek je možné použít u držáku malých kladek.",
-      "product_price": 1890,
-      "product_image": "image/stolekmalychkladekH02.jpg",
-      "product_compatibility": [
-        "a-drzak-kladek-H02"
-      ],
-      "product_has_variants": false
-    },
-    {
-      "product_id": "p-operny-stolek-VP",
-      "product_name": "Opěrný stolek RB, KK - VP",
-      "product_description": "Opěrný stolek je možné použít u rovné brusky ve vertikální poloze a kontatního kola ve vertikální poloze.",
-      "product_price": 1100,
-      "product_image": "image/stolekVP.jpg",
-      "product_compatibility": [
-        "a-kontaktni-kolo-H03",
-        "a-rovna-bruska-H03"
-      ],
-      "product_has_variants": false
-    },
-    {
-      "product_id": "p-operny-stolek-HP",
-      "product_name": "Opěrný stolek RB - HP",
-      "product_description": "Opěrný stolek je možné použít u rovné brusky v horizontální poloze.",
-      "product_price": 1700,
-      "product_image": "image/stolekHP.jpg",
-      "product_compatibility": [
-        "a-kontaktni-kolo-H03",
-        "a-rovna-bruska-H03"
-      ],
-      "product_has_variants": false
-    },
-    {
-      "product_id": "p-mala-kladka-pogumovana",
-      "product_name": "Malá kladka pogumovaná",
-      "product_description": "Malá kladka je vhodná k broušení a odjehlování vnitřních rádiusů. Materiál: polyuretan tvrdosti 55-60 Sh Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování. Různé průměry.",
-      "product_price": 1790,
-      "product_image": "image/malakladka.jpg",
-      "product_compatibility": [
-        "a-drzak-kladek-H01",
-        "a-drzak-kladek-H02",
-        "a-drzak-kladek-H03",
-        "a-drzak-kladek-H31"
-      ],
-      "product_has_variants": true,
-      "variants": [
-        {
-          "product_variant_id": "mala-kladka-pogumovana-12",
-          "product_variant_name": "12",
-          "product_variant_price": 1790,
-          "accessory_variant_supplement": 0,
-          "product_variant_default": true
-        },
-        {
-          "product_variant_id": "mala-kladka-pogumovana-18",
-          "product_variant_name": "18",
-          "product_variant_price": 1790,
-          "accessory_variant_supplement": 0,
-          "product_variant_default": false
-        },
-        {
-          "product_variant_id": "mala-kladka-pogumovana-24",
-          "product_variant_name": "24",
-          "product_variant_price": 1790,
-          "accessory_variant_supplement": 0,
-          "product_variant_default": false
-        },
-        {
-          "product_variant_id": "mala-kladka-pogumovana-30",
-          "product_variant_name": "30",
-          "product_variant_price": 1790,
-          "accessory_variant_supplement": 0,
-          "product_variant_default": false
-        },
-        {
-          "product_variant_id": "mala-kladka-pogumovana-36",
-          "product_variant_name": "36",
-          "product_variant_price": 1790,
-          "accessory_variant_supplement": 0,
-          "product_variant_default": false
-        },
-        {
-          "product_variant_id": "mala-kladka-pogumovana-42",
-          "product_variant_name": "42",
-          "product_variant_price": 1790,
-          "accessory_variant_supplement": 0,
-          "product_variant_default": false
-        },
-        {
-          "product_variant_id": "mala-kladka-pogumovana-48",
-          "product_variant_name": "48",
-          "product_variant_price": 1790,
-          "accessory_variant_supplement": 0,
-          "product_variant_default": false
-        }
-  ]
+    ]
 }
