@@ -165,11 +165,12 @@
       "variants": []
     }
   ],
+
   "accessories": [
     {
       "accessory_id": "a-kontaktni-kolo-H01",
       "item_name": "Kontaktní kolo H01",
-      "item_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení. Běžná tvrdost pogumování je 55-60Sh. Možnost použití opěrného stolku. Hmotnost cca 10 kg. Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování.",
+      "item_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení...",
       "item_price": 7500,
       "accessory_compatibility": ["H01"],
       "image": "image/kontaktnikolo.jpg",
@@ -208,6 +209,7 @@
         }
       ]
     },
+
     {
       "accessory_id": "a-kontaktni-kolo-H02",
       "item_name": "Kontaktní kolo H02",
@@ -250,6 +252,7 @@
         }
       ]
     },
+
     {
       "accessory_id": "a-kontaktni-kolo-H03",
       "item_name": "Kontaktní kolo H03",
@@ -292,6 +295,7 @@
         }
       ]
     },
+
     {
       "accessory_id": "a-kontaktni-kolo-H31",
       "item_name": "Kontaktní kolo H31",
@@ -333,13 +337,94 @@
           "default": false
         }
       ]
+    },
+
+    {
+      "accessory_id": "a-drzak-kladek-H01",
+      "item_name": "Držák malých kladek pro H01",
+      "item_description": "Držák malých kladek MK50 je určen k broušení a odjehlování vnitřních rádiusů...",
+      "item_price": 2790,
+      "accessory_compatibility": ["H01"],
+      "image": "image/drzakkladek.jpg",
+      "variants": []
+    },
+
+    {
+      "accessory_id": "a-drzak-kladek-H02",
+      "item_name": "Držák malých kladek pro H02",
+      "item_description": "Držák malých kladek MK50 je vhodný k broušení a odjehlování vnitřních rádiusů...",
+      "item_price": 2790,
+      "accessory_compatibility": ["H02"],
+      "image": "image/drzakkladek.jpg",
+      "variants": []
+    },
+
+    {
+      "accessory_id": "a-drzak-kladek-H03",
+      "item_name": "Držák malých kladek pro H03",
+      "item_description": "Držák malých kladek H03 je určen pro přesné broušení a odjehlování vnitřních rádiusů...",
+      "item_price": 2790,
+      "accessory_compatibility": ["H03"],
+      "image": "image/drzakkladek.jpg",
+      "variants": []
+    },
+
+    {
+      "accessory_id": "a-drzak-kladek-H31",
+      "item_name": "Držák malých kladek pro H31",
+      "item_description": "Držák malých kladek H31 slouží k broušení a odjehlování vnitřních rádiusů...",
+      "item_price": 2790,
+      "accessory_compatibility": ["H31"],
+      "image": "image/drzakkladek.jpg",
+      "variants": []
+    },
+
+    {
+      "accessory_id": "a-trojkladka-H01",
+      "item_name": "Trojkladka H01",
+      "item_description": "Trojkladka 50 je určena k profilovému a finálnímu broušení...",
+      "item_price": 9390,
+      "accessory_compatibility": ["H01"],
+      "image": "image/trojkladka.jpg",
+      "variants": []
+    },
+
+    {
+      "accessory_id": "a-trojkladka-H02",
+      "item_name": "Trojkladka H02",
+      "item_description": "Trojkladka 50 je vhodná pro profilové i finální broušení...",
+      "item_price": 9390,
+      "accessory_compatibility": ["H02"],
+      "image": "image/trojkladka.jpg",
+      "variants": []
+    },
+
+    {
+      "accessory_id": "a-trojkladka-H03",
+      "item_name": "Trojkladka H03",
+      "item_description": "Trojkladka 50 je určena k profilovému i finálnímu broušení...",
+      "item_price": 9390,
+      "accessory_compatibility": ["H03"],
+      "image": "image/trojkladka.jpg",
+      "variants": []
+    },
+
+    {
+      "accessory_id": "a-trojkladka-H31",
+      "item_name": "Trojkladka H31",
+      "item_description": "Trojkladka H31 slouží k profilovému a finálnímu broušení...",
+      "item_price": 9390,
+      "accessory_compatibility": ["H31"],
+      "image": "image/trojkladka.jpg",
+      "variants": []
     }
   ],
+
   "products": [
     {
       "product_id": "p-operny-stolek-H01",
       "product_name": "Opěrný stolek pro H01",
-      "product_description": "Opěrný stolek pro model H01 V1 je určen pro použití s příslušenstvím, jako je rovná bruska nebo kontaktní kolo. Jeho rozměry jsou 240×100×12 mm a umožňuje natočení v rozsahu 0–45°. Celková hmotnost opěrného stolku je 4,4 kg.",
+      "product_description": "Opěrný stolek pro model H01 V1 je určen pro použití s příslušenstvím...",
       "product_price": 1490,
       "image": "image/stolekH01.jpg",
       "product_compatibility": ["a-kontaktni-kolo-H01"]
