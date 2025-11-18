@@ -704,49 +704,49 @@
 					"product_variant_id": "mala-kladka-pogumovana-12",
 					"product_variant_name": "12",
 					"product_variant_price": 1790,
-					"accessory_variant_supplement": 0,
+					"product_variant_supplement": 0,
 					"product_variant_default": true
 				},
 				{
 					"product_variant_id": "mala-kladka-pogumovana-18",
 					"product_variant_name": "18",
 					"product_variant_price": 1790,
-					"accessory_variant_supplement": 0,
+					"product_variant_supplement": 0,
 					"product_variant_default": false
 				},
 				{
 					"product_variant_id": "mala-kladka-pogumovana-24",
 					"product_variant_name": "24",
 					"product_variant_price": 1790,
-					"accessory_variant_supplement": 0,
+					"product_variant_supplement": 0,
 					"product_variant_default": false
 				},
 				{
 					"product_variant_id": "mala-kladka-pogumovana-30",
 					"product_variant_name": "30",
 					"product_variant_price": 1790,
-					"accessory_variant_supplement": 0,
+					"product_variant_supplement": 0,
 					"product_variant_default": false
 				},
 				{
 					"product_variant_id": "mala-kladka-pogumovana-36",
 					"product_variant_name": "36",
 					"product_variant_price": 1790,
-					"accessory_variant_supplement": 0,
+					"product_variant_supplement": 0,
 					"product_variant_default": false
 				},
 				{
 					"product_variant_id": "mala-kladka-pogumovana-42",
 					"product_variant_name": "42",
 					"product_variant_price": 1790,
-					"accessory_variant_supplement": 0,
+					"product_variant_supplement": 0,
 					"product_variant_default": false
 				},
 				{
 					"product_variant_id": "mala-kladka-pogumovana-48",
 					"product_variant_name": "48",
 					"product_variant_price": 1790,
-					"accessory_variant_supplement": 0,
+					"product_variant_supplement": 0,
 					"product_variant_default": false
 				}
 			]
