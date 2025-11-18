@@ -171,7 +171,7 @@
       "item_name": "Kontaktní kolo H01",
       "item_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení. Běžná tvrdost pogumování je 55-60Sh. Možnost použití opěrného stolku. Hmotnost cca 10 kg. Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování.",
       "item_price": 7500,
-      "compatibility": ["H01"],
+      "accessory_compatibility": ["H01"],
       "image": "image/kontaktnikolo.jpg",
       "variants": [
         {
@@ -213,7 +213,7 @@
       "item_name": "Kontaktní kolo H02",
       "item_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení...",
       "item_price": 7500,
-      "compatibility": ["H02"],
+      "accessory_compatibility": ["H02"],
       "image": "image/kontaktnikolo.jpg",
       "variants": [
         {
@@ -255,7 +255,7 @@
       "item_name": "Kontaktní kolo H03",
       "item_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení...",
       "item_price": 7500,
-      "compatibility": ["H03"],
+      "accessory_compatibility": ["H03"],
       "image": "image/kontaktnikolo.jpg",
       "variants": [
         {
@@ -297,7 +297,7 @@
       "item_name": "Kontaktní kolo H31",
       "item_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení...",
       "item_price": 7500,
-      "compatibility": ["H31"],
+      "accessory_compatibility": ["H31"],
       "image": "image/kontaktnikolo.jpg",
       "variants": [
         {
@@ -342,7 +342,7 @@
       "product_description": "Opěrný stolek pro model H01 V1 je určen pro použití s příslušenstvím, jako je rovná bruska nebo kontaktní kolo. Jeho rozměry jsou 240×100×12 mm a umožňuje natočení v rozsahu 0–45°. Celková hmotnost opěrného stolku je 4,4 kg.",
       "product_price": 1490,
       "image": "image/stolekH01.jpg",
-      "accessories_compatibility": ["a-kontaktni-kolo-H01"]
+      "product_compatibility": ["a-kontaktni-kolo-H01"]
     }
   ]
 }
