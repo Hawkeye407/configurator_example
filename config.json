@@ -619,8 +619,7 @@
         "a-kontaktni-kolo-H01",
         "a-rovna-bruska-H01"
       ],
-      "product_has_variants": false,
-      "product_variants": []
+      "product_has_variants": false
     },
     {
       "product_id": "p-odsavaci-hubice-H01",
@@ -633,8 +632,7 @@
         "a-rovna-bruska-H01",
         "a-kolo-drazkovane-H01"
       ],
-      "product_has_variants": false,
-      "product_variants": []
+      "product_has_variants": false
     },
     {
       "product_id": "p-operny-stolek-malych-kladek-H01",
@@ -645,8 +643,7 @@
       "product_compatibility": [
         "a-drzak-kladek-H01"
       ],
-      "product_has_variants": false,
-      "product_variants": []
+      "product_has_variants": false
     },
     {
       "product_id": "p-operny-stolek-malych-kladek-H02",
@@ -657,8 +654,7 @@
       "product_compatibility": [
         "a-drzak-kladek-H02"
       ],
-      "product_has_variants": false,
-      "product_variants": []
+      "product_has_variants": false
     },
     {
       "product_id": "p-operny-stolek-VP",
@@ -670,8 +666,7 @@
         "a-kontaktni-kolo-H03",
         "a-rovna-bruska-H03"
       ],
-      "product_has_variants": false,
-      "product_variants": []
+      "product_has_variants": false
     },
     {
       "product_id": "p-operny-stolek-HP",
@@ -683,8 +678,70 @@
         "a-kontaktni-kolo-H03",
         "a-rovna-bruska-H03"
       ],
-      "product_has_variants": false,
-      "product_variants": []
-    }
+      "product_has_variants": false
+    },
+    {
+      "product_id": "p-mala-kladka-pogumovana",
+      "product_name": "Malá kladka pogumovaná",
+      "product_description": "Malá kladka je vhodná k broušení a odjehlování vnitřních rádiusů. Materiál: polyuretan tvrdosti 55-60 Sh Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování. Různé průměry.",
+      "product_price": 1790,
+      "product_image": "image/malakladka.jpg",
+      "product_compatibility": [
+        "a-drzak-kladek-H01",
+        "a-drzak-kladek-H02",
+        "a-drzak-kladek-H03",
+        "a-drzak-kladek-H31"
+      ],
+      "product_has_variants": true,
+      "variants": [
+        {
+          "product_variant_id": "mala-kladka-pogumovana-12",
+          "product_variant_name": "12",
+          "product_variant_price": 1790,
+          "accessory_variant_supplement": 0,
+          "product_variant_default": true
+        },
+        {
+          "product_variant_id": "mala-kladka-pogumovana-18",
+          "product_variant_name": "18",
+          "product_variant_price": 1790,
+          "accessory_variant_supplement": 0,
+          "product_variant_default": false
+        },
+        {
+          "product_variant_id": "mala-kladka-pogumovana-24",
+          "product_variant_name": "24",
+          "product_variant_price": 1790,
+          "accessory_variant_supplement": 0,
+          "product_variant_default": false
+        },
+        {
+          "product_variant_id": "mala-kladka-pogumovana-30",
+          "product_variant_name": "30",
+          "product_variant_price": 1790,
+          "accessory_variant_supplement": 0,
+          "product_variant_default": false
+        },
+        {
+          "product_variant_id": "mala-kladka-pogumovana-36",
+          "product_variant_name": "36",
+          "product_variant_price": 1790,
+          "accessory_variant_supplement": 0,
+          "product_variant_default": false
+        },
+        {
+          "product_variant_id": "mala-kladka-pogumovana-42",
+          "product_variant_name": "42",
+          "product_variant_price": 1790,
+          "accessory_variant_supplement": 0,
+          "product_variant_default": false
+        },
+        {
+          "product_variant_id": "mala-kladka-pogumovana-48",
+          "product_variant_name": "48",
+          "product_variant_price": 1790,
+          "accessory_variant_supplement": 0,
+          "product_variant_default": false
+        }
   ]
 }
