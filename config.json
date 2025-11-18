@@ -615,7 +615,7 @@
       "product_description": "Opěrný stolek pro model H01 V1 je určen pro použití s příslušenstvím, jako je rovná bruska nebo kontaktní kolo. Jeho rozměry jsou 240×100×12 mm a umožňuje natočení v rozsahu 0–45°. Celková hmotnost opěrného stolku je 4,4 kg.",
       "product_price": 1490,
       "product_image": "image/stolekH01.jpg",
-      "products_compatibility": [
+      "product_compatibility": [
         "a-kontaktni-kolo-H01",
         "a-rovna-bruska-H01"
       ],
@@ -628,7 +628,7 @@
       "product_description": "Vnitřní průměr připojovací hadice: 100 mm. Hmotnost 3kg.",
       "product_price": 2490,
       "product_image": "image/hubiceH01.jpg",
-      "products_compatibility": [
+      "product_compatibility": [
         "a-kontaktni-kolo-H01",
         "a-rovna-bruska-H01",
         "a-kolo-drazkovane-H01"
@@ -642,7 +642,7 @@
       "product_description": "Opěrný stolek je možné použít u držáku malých kladek.",
       "product_price": 1890,
       "product_image": "image/stolekmalychkladekH01.jpg",
-      "products_compatibility": [
+      "product_compatibility": [
         "a-drzak-kladek-H01"
       ],
       "product_has_variants": false,
@@ -654,7 +654,7 @@
       "product_description": "Opěrný stolek je možné použít u držáku malých kladek.",
       "product_price": 1890,
       "product_image": "image/stolekmalychkladekH02.jpg",
-      "products_compatibility": [
+      "product_compatibility": [
         "a-drzak-kladek-H02"
       ],
       "product_has_variants": false,
@@ -666,7 +666,7 @@
       "product_description": "Opěrný stolek je možné použít u rovné brusky ve vertikální poloze a kontatního kola ve vertikální poloze.",
       "product_price": 1100,
       "product_image": "image/stolekVP.jpg",
-      "products_compatibility": [
+      "product_compatibility": [
         "a-kontaktni-kolo-H03",
         "a-rovna-bruska-H03"
       ],
@@ -679,7 +679,7 @@
       "product_description": "Opěrný stolek je možné použít u rovné brusky v horizontální poloze.",
       "product_price": 1700,
       "product_image": "image/stolekHP.jpg",
-      "products_compatibility": [
+      "product_compatibility": [
         "a-kontaktni-kolo-H03",
         "a-rovna-bruska-H03"
       ],
