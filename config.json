@@ -1,210 +1,338 @@
 {
-    "models": [
-        {
-            "model_id": "H01",
-            "model_name": "H01",
-            "model_description": "Univerzální pásová bruska se širokou škálou výměnného příslušenství a doplňků.",
-            "model_price": 33990,
-            "image": "image/H01J.jpg",
-            "variants": [
-                {
-                    "variant_id": "H01J1.5",
-                    "variant_name": "Jednorychlostní, 1.5W motor",
-                    "motor": "1.5",
-                    "regulation": "J",
-                    "variant_price": 33990,
-                    "variant_supplement": 0,
-                    "variant_image": "image/H01J.jpg",
-                    "default": true
-                },
-                {
-                    "variant_id": "H01J2.2",
-                    "variant_name": "Jednorychlostní, 2.2W motor",
-                    "motor": "2.2",
-                    "regulation": "J",
-                    "variant_price": 35990,
-                    "variant_supplement": 2000,
-                    "variant_image": "image/H01J.jpg",
-                    "default": false
-                },
-                {
-                    "variant_id": "H01P1.5",
-                    "variant_name": "Plynulá regulace, 1.5W motor",
-                    "motor": "1.5",
-                    "regulation": "P",
-                    "variant_price": 41990,
-                    "variant_supplement": 8000,
-                    "variant_image": "image/H01P.jpg",
-                    "default": false
-                },
-                {
-                    "variant_id": "H01P2.2",
-                    "variant_name": "Plynulá regulace, 2.2W motor",
-                    "motor": "2.2",
-                    "regulation": "P",
-                    "variant_price": 45390,
-                    "variant_supplement": 11400,
-                    "variant_image": "image/H01P.jpg",
-                    "default": false
-                }
-            ]
-        },
-        {
-            "model_id": "H02",
-            "model_name": "H02",
-            "model_description": "chybí text",
-            "model_price": 43990,
-            "image": "image/H02J.jpg",
-            "variants": [
-                {
-                    "variant_id": "H02J1.5",
-                    "variant_name": "Jednorychlostní, 1.5W motor",
-                    "motor": "1.5",
-                    "regulation": "J",
-                    "variant_price": 43990,
-                    "variant_supplement": 0,
-                    "variant_image": "image/H02J.jpg",
-                    "default": true
-                },
-                {
-                    "variant_id": "H02J2.2",
-                    "variant_name": "Jednorychlostní, 2.2W motor",
-                    "motor": "2.2",
-                    "regulation": "J",
-                    "variant_price": 46990,
-                    "variant_supplement": 3000,
-                    "variant_image": "image/H02J.jpg",
-                    "default": false
-                },
-                {
-                    "variant_id": "H02P1.5",
-                    "variant_name": "Plynulá regulace, 1.5W motor",
-                    "motor": "1.5",
-                    "regulation": "P",
-                    "variant_price": 53990,
-                    "variant_supplement": 10000,
-                    "variant_image": "image/H02P.jpg",
-                    "default": false
-                },
-                {
-                    "variant_id": "H02P2.2",
-                    "variant_name": "Plynulá regulace, 2.2W motor",
-                    "motor": "2.2",
-                    "regulation": "P",
-                    "variant_price": 57990,
-                    "variant_supplement": 14000,
-                    "variant_image": "image/H02P.jpg",
-                    "default": false
-                }
-            ]
-        },
-        {
-            "model_id": "H03",
-            "model_name": "H03",
-            "model_description": "Hlavní předností této pásové brusky je možnost použití i v horizontální poloze a její široká škála volitelného příslušenství.",
-            "model_price": 33990,
-            "image": "image/H03J.jpg",
-            "variants": [
-                {
-                    "variant_id": "H03J1.5",
-                    "variant_name": "Jednorychlostní, 1.5W motor",
-                    "motor": "1.5",
-                    "regulation": "J",
-                    "variant_price": 33990,
-                    "variant_supplement": 0,
-                    "variant_image": "image/H03J.jpg",
-                    "default": true
-                },
-                {
-                    "variant_id": "H03P1.5",
-                    "variant_name": "Plynulá regulace, 1.5W motor",
-                    "motor": "1.5",
-                    "regulation": "P",
-                    "variant_price": 41990,
-                    "variant_supplement": 8000,
-                    "variant_image": "image/H03P.jpg",
-                    "default": false
-                }
-            ]
-        },
-        {
-            "model_id": "H31",
-            "model_name": "H31",
-            "model_description": "Ve srovnání s modelem H03 V2 nabízí tento stroj řadu významných vylepšení...",
-            "model_price": 53990,
-            "image": "image/H31P.jpg",
-            "variants": [
-                {
-                    "variant_id": "H31P1.5",
-                    "variant_name": "Plynulá regulace, 1.5W motor",
-                    "motor": "1.5",
-                    "regulation": "P",
-                    "variant_price": 53990,
-                    "variant_supplement": 0,
-                    "variant_image": "image/H31P.jpg",
-                    "default": true
-                },
-                {
-                    "variant_id": "H31P2.2",
-                    "variant_name": "Plynulá regulace, 2.2W motor",
-                    "motor": "2.2",
-                    "regulation": "P",
-                    "variant_price": 58990,
-                    "variant_supplement": 5000,
-                    "variant_image": "image/H31P.jpg",
-                    "default": false
-                }
-            ]
-        },
-        {
-            "model_id": "H05",
-            "model_name": "H05",
-            "model_description": "Tato průmyslová pásová bruska vyniká jednoduchou obsluhou a vysokým výkonem.",
-            "model_price": 71990,
-            "image": "image/H05P.jpg",
-            "variants": []
-        }
-    ],
-  "accessories": [
+  "models": [
     {
-      "item_name": "Rovná bruska",
-      "item_description": "Výkonná Li-Ion baterie pro delší provoz.",
-      "item_price": 890,
-      "compatibility": ["H01"],
-      "image": "image/H03.jpg",
+      "model_id": "H01",
+      "model_name": "H01",
+      "model_description": "Univerzální pásová bruska se širokou škálou výměnného příslušenství a doplňků.",
+      "model_price": 33990,
+      "image": "image/H01J.jpg",
       "variants": [
         {
-          "variant_name": "Základní",
+          "variant_id": "H01J1.5",
+          "variant_name": "Jednorychlostní, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "J",
+          "variant_price": 33990,
           "variant_supplement": 0,
+          "variant_image": "image/H01J.jpg",
           "default": true
         },
         {
-          "variant_name": "Lepší opěrka pásu",
-          "variant_supplement": 250,
+          "variant_id": "H01J2.2",
+          "variant_name": "Jednorychlostní, 2.2W motor",
+          "motor": "2.2",
+          "regulation": "J",
+          "variant_price": 35990,
+          "variant_supplement": 2000,
+          "variant_image": "image/H01J.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H01P1.5",
+          "variant_name": "Plynulá regulace, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "P",
+          "variant_price": 41990,
+          "variant_supplement": 8000,
+          "variant_image": "image/H01P.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H01P2.2",
+          "variant_name": "Plynulá regulace, 2.2W motor",
+          "motor": "2.2",
+          "regulation": "P",
+          "variant_price": 45390,
+          "variant_supplement": 11400,
+          "variant_image": "image/H01P.jpg",
           "default": false
         }
       ]
     },
     {
-      "item_name": "Kontaktní kolo",
-      "item_description": "Gumový kryt pro zvýšení bezpečnosti.",
-      "item_price": 190,
-      "compatibility": ["H01", "H02"],
-      "image": "image/H01.jpg"
+      "model_id": "H02",
+      "model_name": "H02",
+      "model_description": "chybí text",
+      "model_price": 43990,
+      "image": "image/H02J.jpg",
+      "variants": [
+        {
+          "variant_id": "H02J1.5",
+          "variant_name": "Jednorychlostní, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "J",
+          "variant_price": 43990,
+          "variant_supplement": 0,
+          "variant_image": "image/H02J.jpg",
+          "default": true
+        },
+        {
+          "variant_id": "H02J2.2",
+          "variant_name": "Jednorychlostní, 2.2W motor",
+          "motor": "2.2",
+          "regulation": "J",
+          "variant_price": 46990,
+          "variant_supplement": 3000,
+          "variant_image": "image/H02J.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H02P1.5",
+          "variant_name": "Plynulá regulace, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "P",
+          "variant_price": 53990,
+          "variant_supplement": 10000,
+          "variant_image": "image/H02P.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H02P2.2",
+          "variant_name": "Plynulá regulace, 2.2W motor",
+          "motor": "2.2",
+          "regulation": "P",
+          "variant_price": 57990,
+          "variant_supplement": 14000,
+          "variant_image": "image/H02P.jpg",
+          "default": false
+        }
+      ]
     },
     {
-      "item_name": "Držák malých kladek",
-      "item_description": "Vysokokvalitní pilový list pro přesné a čisté řezy.",
-      "item_price": 320,
-      "compatibility": ["H01", "H03"],
-      "image": "image/H01.jpg"
+      "model_id": "H03",
+      "model_name": "H03",
+      "model_description": "Hlavní předností této pásové brusky je možnost použití i v horizontální poloze a její široká škála volitelného příslušenství.",
+      "model_price": 33990,
+      "image": "image/H03J.jpg",
+      "variants": [
+        {
+          "variant_id": "H03J1.5",
+          "variant_name": "Jednorychlostní, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "J",
+          "variant_price": 33990,
+          "variant_supplement": 0,
+          "variant_image": "image/H03J.jpg",
+          "default": true
+        },
+        {
+          "variant_id": "H03P1.5",
+          "variant_name": "Plynulá regulace, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "P",
+          "variant_price": 41990,
+          "variant_supplement": 8000,
+          "variant_image": "image/H03P.jpg",
+          "default": false
+        }
+      ]
     },
     {
-      "item_name": "Trojkladka",
-      "item_description": "Pevný kufr na přenášení nářadí.",
-      "item_price": 450,
+      "model_id": "H31",
+      "model_name": "H31",
+      "model_description": "Ve srovnání s modelem H03 V2 nabízí tento stroj řadu významných vylepšení...",
+      "model_price": 53990,
+      "image": "image/H31P.jpg",
+      "variants": [
+        {
+          "variant_id": "H31P1.5",
+          "variant_name": "Plynulá regulace, 1.5W motor",
+          "motor": "1.5",
+          "regulation": "P",
+          "variant_price": 53990,
+          "variant_supplement": 0,
+          "variant_image": "image/H31P.jpg",
+          "default": true
+        },
+        {
+          "variant_id": "H31P2.2",
+          "variant_name": "Plynulá regulace, 2.2W motor",
+          "motor": "2.2",
+          "regulation": "P",
+          "variant_price": 58990,
+          "variant_supplement": 5000,
+          "variant_image": "image/H31P.jpg",
+          "default": false
+        }
+      ]
+    },
+    {
+      "model_id": "H05",
+      "model_name": "H05",
+      "model_description": "Tato průmyslová pásová bruska vyniká jednoduchou obsluhou a vysokým výkonem.",
+      "model_price": 71990,
+      "image": "image/H05P.jpg",
+      "variants": []
+    }
+  ],
+  "accessories": [
+    {
+      "accessory_id": "a-kontaktni-kolo-H01",
+      "item_name": "Kontaktní kolo H01",
+      "item_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení. Běžná tvrdost pogumování je 55-60Sh. Možnost použití opěrného stolku. Hmotnost cca 10 kg. Max. teplota povrchu 70°C, jinak dojde k deformaci pogumování.",
+      "item_price": 7500,
       "compatibility": ["H01"],
-      "image": "image/H01.jpg"
+      "image": "image/kontaktnikolo.jpg",
+      "variants": [
+        {
+          "variant_id": "H01-150x50",
+          "variant_name": "150x50",
+          "variant_price": 7500,
+          "variant_supplement": 0,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": true
+        },
+        {
+          "variant_id": "H01-200x50",
+          "variant_name": "200x50",
+          "variant_price": 8500,
+          "variant_supplement": 1000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H01-250x50",
+          "variant_name": "250x50",
+          "variant_price": 9500,
+          "variant_supplement": 2000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H01-300x50",
+          "variant_name": "300x50",
+          "variant_price": 10500,
+          "variant_supplement": 3000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        }
+      ]
+    },
+    {
+      "accessory_id": "a-kontaktni-kolo-H02",
+      "item_name": "Kontaktní kolo H02",
+      "item_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení...",
+      "item_price": 7500,
+      "compatibility": ["H02"],
+      "image": "image/kontaktnikolo.jpg",
+      "variants": [
+        {
+          "variant_id": "H02-150x50",
+          "variant_name": "150x50",
+          "variant_price": 7500,
+          "variant_supplement": 0,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": true
+        },
+        {
+          "variant_id": "H02-200x50",
+          "variant_name": "200x50",
+          "variant_price": 8500,
+          "variant_supplement": 1000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H02-250x50",
+          "variant_name": "250x50",
+          "variant_price": 9500,
+          "variant_supplement": 2000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H02-300x50",
+          "variant_name": "300x50",
+          "variant_price": 10500,
+          "variant_supplement": 3000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        }
+      ]
+    },
+    {
+      "accessory_id": "a-kontaktni-kolo-H03",
+      "item_name": "Kontaktní kolo H03",
+      "item_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení...",
+      "item_price": 7500,
+      "compatibility": ["H03"],
+      "image": "image/kontaktnikolo.jpg",
+      "variants": [
+        {
+          "variant_id": "H03-150x50",
+          "variant_name": "150x50",
+          "variant_price": 7500,
+          "variant_supplement": 0,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": true
+        },
+        {
+          "variant_id": "H03-200x50",
+          "variant_name": "200x50",
+          "variant_price": 8500,
+          "variant_supplement": 1000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H03-250x50",
+          "variant_name": "250x50",
+          "variant_price": 9500,
+          "variant_supplement": 2000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H03-300x50",
+          "variant_name": "300x50",
+          "variant_price": 10500,
+          "variant_supplement": 3000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        }
+      ]
+    },
+    {
+      "accessory_id": "a-kontaktni-kolo-H31",
+      "item_name": "Kontaktní kolo H31",
+      "item_description": "Kontaktní kolo je vhodné k hrubému i finálnímu broušení...",
+      "item_price": 7500,
+      "compatibility": ["H31"],
+      "image": "image/kontaktnikolo.jpg",
+      "variants": [
+        {
+          "variant_id": "H31-150x50",
+          "variant_name": "150x50",
+          "variant_price": 7500,
+          "variant_supplement": 0,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": true
+        },
+        {
+          "variant_id": "H31-200x50",
+          "variant_name": "200x50",
+          "variant_price": 8500,
+          "variant_supplement": 1000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H31-250x50",
+          "variant_name": "250x50",
+          "variant_price": 9500,
+          "variant_supplement": 2000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        },
+        {
+          "variant_id": "H31-300x50",
+          "variant_name": "300x50",
+          "variant_price": 10500,
+          "variant_supplement": 3000,
+          "variant_image": "image/kontaktnikolo.jpg",
+          "default": false
+        }
+      ]
     }
   ],
   "products": [
@@ -243,4 +371,3 @@
     }
   ]
 }
-
